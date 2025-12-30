@@ -1,0 +1,1001 @@
+Flight_ID,Airline,Source,Destination,Flight_Date,Scheduled_Departure,Actual_Departure,Weather,Airport_Traffic,Distance_km,Delay_Minutes,Delay_Status
+FL1001,Air India,Mumbai,Hyderabad,2025-01-16,07:15,07:32,Clear,High,1509,17,Delayed
+FL1002,Vistara,Mumbai,Kochi,2025-01-06,06:15,06:36,Clear,High,1766,21,Delayed
+FL1003,Akasa Air,Kolkata,Chennai,2025-01-29,18:30,18:30,Clear,Low,1729,0,On Time
+FL1004,Vistara,Pune,Hyderabad,2025-01-10,06:30,06:30,Clear,Low,1078,0,On Time
+FL1005,Air India,Pune,Kochi,2025-02-08,08:00,08:40,Thunderstorm,High,461,40,Delayed
+FL1006,Akasa Air,Hyderabad,Pune,2025-02-06,06:00,06:22,Clear,High,1883,22,Delayed
+FL1007,SpiceJet,Delhi,Chennai,2025-02-25,03:45,04:15,Fog,Medium,1047,30,Delayed
+FL1008,IndiGo,Pune,Kochi,2025-01-14,21:30,21:50,Clear,High,1393,20,Delayed
+FL1009,IndiGo,Bangalore,Ahmedabad,2025-01-25,08:15,08:32,Fog,Low,1983,17,Delayed
+FL1010,Air India,Pune,Kolkata,2025-01-18,02:15,02:45,Fog,Low,1322,30,Delayed
+FL1011,Vistara,Ahmedabad,Bangalore,2025-01-17,04:15,05:11,Fog,High,1495,56,Delayed
+FL1012,Vistara,Pune,Chennai,2025-01-09,16:45,16:45,Clear,Low,524,0,On Time
+FL1013,IndiGo,Bangalore,Kolkata,2025-02-08,02:45,03:32,Thunderstorm,High,1433,47,Delayed
+FL1014,Air India,Delhi,Jaipur,2025-02-18,08:30,08:30,Clear,Medium,1190,0,On Time
+FL1015,IndiGo,Ahmedabad,Mumbai,2025-02-16,23:30,00:27,Rain,High,1580,57,Delayed
+FL1016,SpiceJet,Jaipur,Chennai,2025-01-10,11:15,11:40,Clear,High,1300,25,Delayed
+FL1017,Air India,Delhi,Pune,2025-02-26,09:15,09:15,Clear,Low,1461,0,On Time
+FL1018,Air India,Delhi,Ahmedabad,2025-02-22,02:15,03:00,Rain,High,842,45,Delayed
+FL1019,Akasa Air,Kochi,Kolkata,2025-01-14,17:15,17:46,Fog,Medium,1630,31,Delayed
+FL1020,SpiceJet,Ahmedabad,Jaipur,2025-01-29,03:15,03:35,Rain,Low,343,20,Delayed
+FL1021,Akasa Air,Jaipur,Chennai,2025-02-07,07:00,07:16,Clear,High,768,16,Delayed
+FL1022,Air India,Mumbai,Pune,2025-01-05,16:15,17:01,Fog,High,1404,46,Delayed
+FL1023,IndiGo,Kochi,Ahmedabad,2025-01-16,15:45,15:58,Rain,Low,1649,13,On Time
+FL1024,Vistara,Pune,Kolkata,2025-01-27,14:00,14:00,Clear,Low,1124,0,On Time
+FL1025,SpiceJet,Delhi,Chennai,2025-01-13,06:45,07:00,Rain,Medium,870,15,On Time
+FL1026,Vistara,Chennai,Delhi,2025-01-29,17:00,17:15,Clear,High,491,15,On Time
+FL1027,IndiGo,Bangalore,Kolkata,2025-02-01,15:15,15:30,Thunderstorm,Low,1076,15,On Time
+FL1028,Air India,Kolkata,Hyderabad,2025-03-01,14:30,15:40,Thunderstorm,High,617,70,Delayed
+FL1029,IndiGo,Hyderabad,Chennai,2025-01-04,18:00,18:11,Fog,Low,1496,11,On Time
+FL1030,Vistara,Jaipur,Kochi,2025-01-11,01:00,01:29,Rain,Low,439,29,Delayed
+FL1031,IndiGo,Kolkata,Delhi,2025-03-02,18:15,18:32,Clear,High,1158,17,Delayed
+FL1032,Akasa Air,Kochi,Jaipur,2025-01-21,08:15,08:33,Fog,Low,1110,18,Delayed
+FL1033,IndiGo,Hyderabad,Ahmedabad,2025-01-21,02:00,02:46,Thunderstorm,High,450,46,Delayed
+FL1034,Akasa Air,Chennai,Jaipur,2025-01-17,04:30,04:30,Clear,Low,1056,0,On Time
+FL1035,SpiceJet,Bangalore,Ahmedabad,2025-02-23,17:30,17:54,Clear,High,1658,24,Delayed
+FL1036,Air India,Bangalore,Hyderabad,2025-01-08,03:15,03:44,Fog,Medium,731,29,Delayed
+FL1037,SpiceJet,Chennai,Hyderabad,2025-02-02,15:30,15:30,Clear,Low,1599,0,On Time
+FL1038,Vistara,Hyderabad,Mumbai,2025-01-01,10:15,10:48,Fog,Low,1204,33,Delayed
+FL1039,Akasa Air,Kolkata,Jaipur,2025-01-01,03:00,03:37,Rain,High,1492,37,Delayed
+FL1040,Akasa Air,Bangalore,Kolkata,2025-01-09,01:30,02:08,Fog,Low,1032,38,Delayed
+FL1041,IndiGo,Chennai,Delhi,2025-01-23,17:45,18:22,Rain,Low,632,37,Delayed
+FL1042,IndiGo,Kolkata,Mumbai,2025-01-12,23:30,00:29,Thunderstorm,High,846,59,Delayed
+FL1043,IndiGo,Delhi,Kolkata,2025-02-25,01:45,02:21,Rain,Low,1242,36,Delayed
+FL1044,SpiceJet,Hyderabad,Chennai,2025-01-15,00:15,00:33,Thunderstorm,Medium,442,18,Delayed
+FL1045,SpiceJet,Pune,Jaipur,2025-01-26,21:30,21:30,Clear,Low,834,0,On Time
+FL1046,IndiGo,Kochi,Hyderabad,2025-01-03,03:45,04:45,Fog,High,1193,60,Delayed
+FL1047,Akasa Air,Jaipur,Delhi,2025-01-25,18:15,18:47,Fog,Low,1193,32,Delayed
+FL1048,Air India,Jaipur,Kochi,2025-02-13,23:15,23:27,Fog,Medium,1660,12,On Time
+FL1049,SpiceJet,Kochi,Pune,2025-02-12,03:30,04:18,Fog,High,1124,48,Delayed
+FL1050,SpiceJet,Jaipur,Bangalore,2025-01-13,13:45,14:37,Rain,High,1131,52,Delayed
+FL1051,Akasa Air,Mumbai,Hyderabad,2025-01-19,06:45,07:09,Fog,Medium,1205,24,Delayed
+FL1052,IndiGo,Jaipur,Ahmedabad,2025-02-20,23:15,23:15,Clear,Medium,1355,0,On Time
+FL1053,Akasa Air,Pune,Delhi,2025-02-22,07:30,07:44,Rain,Low,350,14,On Time
+FL1054,Air India,Chennai,Ahmedabad,2025-02-09,02:45,03:34,Thunderstorm,High,1771,49,Delayed
+FL1055,Vistara,Ahmedabad,Kolkata,2025-01-16,04:00,04:00,Clear,Medium,748,0,On Time
+FL1056,IndiGo,Jaipur,Ahmedabad,2025-01-04,17:15,17:15,Clear,Medium,573,0,On Time
+FL1057,Vistara,Jaipur,Kochi,2025-02-08,10:45,11:29,Thunderstorm,High,1823,44,Delayed
+FL1058,Vistara,Ahmedabad,Hyderabad,2025-02-18,07:30,08:10,Thunderstorm,High,1200,40,Delayed
+FL1059,Air India,Hyderabad,Chennai,2025-01-18,10:30,10:30,Clear,Low,608,0,On Time
+FL1060,IndiGo,Kolkata,Bangalore,2025-02-15,06:00,06:20,Thunderstorm,Medium,1411,20,Delayed
+FL1061,Vistara,Kolkata,Mumbai,2025-01-14,13:45,14:12,Clear,High,1276,27,Delayed
+FL1062,Air India,Pune,Hyderabad,2025-02-18,12:45,13:02,Rain,Medium,858,17,Delayed
+FL1063,Vistara,Ahmedabad,Mumbai,2025-01-25,10:45,11:24,Rain,Medium,561,39,Delayed
+FL1064,Akasa Air,Jaipur,Mumbai,2025-02-28,12:00,12:28,Clear,High,577,28,Delayed
+FL1065,Vistara,Bangalore,Mumbai,2025-01-17,12:30,12:50,Rain,Medium,991,20,Delayed
+FL1066,Vistara,Hyderabad,Kolkata,2025-01-17,02:45,03:01,Clear,High,1016,16,Delayed
+FL1067,IndiGo,Delhi,Mumbai,2025-02-18,00:15,00:44,Rain,Low,612,29,Delayed
+FL1068,IndiGo,Bangalore,Ahmedabad,2025-02-12,03:15,03:59,Thunderstorm,High,643,44,Delayed
+FL1069,Akasa Air,Kochi,Delhi,2025-02-19,05:30,05:45,Clear,High,938,15,On Time
+FL1070,Akasa Air,Kolkata,Kochi,2025-03-02,22:15,22:37,Clear,High,508,22,Delayed
+FL1071,SpiceJet,Kochi,Delhi,2025-02-20,18:00,18:49,Fog,High,441,49,Delayed
+FL1072,Akasa Air,Pune,Mumbai,2025-02-24,13:45,13:45,Clear,Medium,1041,0,On Time
+FL1073,Vistara,Bangalore,Kolkata,2025-01-12,23:30,23:53,Thunderstorm,Medium,1991,23,Delayed
+FL1074,Akasa Air,Hyderabad,Pune,2025-02-24,07:00,07:17,Fog,Medium,1836,17,Delayed
+FL1075,Vistara,Kochi,Kolkata,2025-01-22,00:45,01:10,Fog,Low,734,25,Delayed
+FL1076,SpiceJet,Hyderabad,Pune,2025-01-18,19:30,19:51,Clear,High,475,21,Delayed
+FL1077,IndiGo,Kolkata,Ahmedabad,2025-02-05,07:45,08:20,Thunderstorm,Medium,335,35,Delayed
+FL1078,Air India,Hyderabad,Chennai,2025-01-26,22:15,23:09,Fog,High,1269,54,Delayed
+FL1079,Akasa Air,Jaipur,Pune,2025-01-28,23:30,00:17,Fog,High,927,47,Delayed
+FL1080,SpiceJet,Chennai,Delhi,2025-02-16,06:30,06:50,Clear,High,692,20,Delayed
+FL1081,IndiGo,Ahmedabad,Hyderabad,2025-02-16,18:30,18:30,Clear,Low,906,0,On Time
+FL1082,IndiGo,Pune,Bangalore,2025-01-20,00:15,00:26,Fog,Low,1433,11,On Time
+FL1083,SpiceJet,Bangalore,Ahmedabad,2025-01-07,00:30,00:54,Thunderstorm,Medium,997,24,Delayed
+FL1084,IndiGo,Mumbai,Hyderabad,2025-03-02,15:00,15:00,Clear,Medium,1307,0,On Time
+FL1085,Air India,Kochi,Mumbai,2025-01-10,04:30,04:30,Clear,Low,542,0,On Time
+FL1086,Akasa Air,Kolkata,Chennai,2025-02-19,16:45,17:04,Thunderstorm,Medium,1505,19,Delayed
+FL1087,Vistara,Hyderabad,Mumbai,2025-02-09,23:00,23:39,Rain,High,1652,39,Delayed
+FL1088,Air India,Bangalore,Chennai,2025-01-12,17:00,17:23,Rain,Low,1222,23,Delayed
+FL1089,Akasa Air,Ahmedabad,Hyderabad,2025-01-03,07:30,08:36,Fog,High,445,66,Delayed
+FL1090,IndiGo,Hyderabad,Chennai,2025-01-28,03:15,03:51,Rain,Medium,591,36,Delayed
+FL1091,Air India,Mumbai,Bangalore,2025-02-20,09:30,09:54,Thunderstorm,Low,1710,24,Delayed
+FL1092,SpiceJet,Kolkata,Hyderabad,2025-02-02,17:45,18:14,Thunderstorm,Low,381,29,Delayed
+FL1093,Vistara,Pune,Hyderabad,2025-01-02,02:15,02:38,Clear,High,1480,23,Delayed
+FL1094,Air India,Bangalore,Ahmedabad,2025-02-03,20:45,21:13,Fog,Low,1192,28,Delayed
+FL1095,Vistara,Delhi,Ahmedabad,2025-01-23,13:30,14:03,Fog,High,975,33,Delayed
+FL1096,Vistara,Ahmedabad,Hyderabad,2025-02-12,12:00,12:20,Thunderstorm,Low,816,20,Delayed
+FL1097,SpiceJet,Delhi,Kolkata,2025-02-25,16:00,16:11,Thunderstorm,Medium,684,11,On Time
+FL1098,Akasa Air,Pune,Ahmedabad,2025-02-10,14:00,14:27,Rain,Medium,568,27,Delayed
+FL1099,SpiceJet,Ahmedabad,Kochi,2025-01-08,00:15,00:42,Rain,Medium,328,27,Delayed
+FL1100,Akasa Air,Kolkata,Delhi,2025-01-15,03:45,04:04,Clear,High,1320,19,Delayed
+FL1101,SpiceJet,Jaipur,Hyderabad,2025-01-27,15:45,16:12,Rain,Medium,596,27,Delayed
+FL1102,Vistara,Chennai,Jaipur,2025-02-17,04:00,04:20,Fog,Medium,1913,20,Delayed
+FL1103,Akasa Air,Hyderabad,Mumbai,2025-01-19,23:30,23:54,Thunderstorm,Low,1403,24,Delayed
+FL1104,Vistara,Pune,Kochi,2025-02-05,17:45,18:22,Thunderstorm,Medium,686,37,Delayed
+FL1105,IndiGo,Kochi,Kolkata,2025-01-15,13:00,13:52,Fog,High,1090,52,Delayed
+FL1106,IndiGo,Ahmedabad,Mumbai,2025-01-09,16:30,16:30,Clear,Medium,504,0,On Time
+FL1107,Akasa Air,Ahmedabad,Mumbai,2025-02-16,04:45,05:10,Rain,Low,1900,25,Delayed
+FL1108,SpiceJet,Pune,Kolkata,2025-02-11,02:30,03:00,Thunderstorm,Medium,1771,30,Delayed
+FL1109,Vistara,Jaipur,Mumbai,2025-02-09,02:15,02:48,Fog,Low,485,33,Delayed
+FL1110,Vistara,Delhi,Kochi,2025-01-29,05:30,05:30,Clear,Low,964,0,On Time
+FL1111,Air India,Hyderabad,Pune,2025-01-24,13:15,13:58,Rain,High,648,43,Delayed
+FL1112,IndiGo,Delhi,Kolkata,2025-02-09,21:15,21:51,Thunderstorm,High,1244,36,Delayed
+FL1113,SpiceJet,Ahmedabad,Hyderabad,2025-02-12,00:45,01:32,Fog,High,451,47,Delayed
+FL1114,Vistara,Pune,Hyderabad,2025-02-10,13:30,13:46,Thunderstorm,Medium,1087,16,Delayed
+FL1115,Vistara,Delhi,Chennai,2025-01-25,18:30,19:04,Fog,High,1999,34,Delayed
+FL1116,Vistara,Hyderabad,Mumbai,2025-02-06,21:00,21:34,Thunderstorm,Medium,1936,34,Delayed
+FL1117,IndiGo,Kochi,Pune,2025-01-15,20:15,21:08,Fog,High,1586,53,Delayed
+FL1118,Air India,Mumbai,Hyderabad,2025-02-20,14:00,14:31,Fog,High,904,31,Delayed
+FL1119,SpiceJet,Kolkata,Bangalore,2025-01-13,04:30,04:48,Fog,Low,1988,18,Delayed
+FL1120,Vistara,Hyderabad,Pune,2025-02-21,03:45,03:45,Clear,Low,1844,0,On Time
+FL1121,IndiGo,Kolkata,Jaipur,2025-01-24,02:45,02:45,Clear,Medium,1398,0,On Time
+FL1122,Air India,Ahmedabad,Pune,2025-02-13,23:30,00:36,Thunderstorm,High,521,66,Delayed
+FL1123,IndiGo,Ahmedabad,Mumbai,2025-02-09,17:30,18:11,Rain,High,1735,41,Delayed
+FL1124,SpiceJet,Kolkata,Delhi,2025-01-09,01:00,01:13,Fog,Medium,499,13,On Time
+FL1125,IndiGo,Jaipur,Bangalore,2025-01-25,14:30,15:22,Thunderstorm,High,1149,52,Delayed
+FL1126,Air India,Ahmedabad,Kolkata,2025-03-02,08:00,08:24,Fog,Low,1210,24,Delayed
+FL1127,IndiGo,Pune,Delhi,2025-02-13,11:30,11:30,Clear,Medium,865,0,On Time
+FL1128,IndiGo,Delhi,Ahmedabad,2025-01-06,21:15,21:15,Clear,Low,1911,0,On Time
+FL1129,SpiceJet,Chennai,Bangalore,2025-02-20,18:15,18:36,Clear,High,1500,21,Delayed
+FL1130,IndiGo,Chennai,Pune,2025-02-19,04:00,04:14,Fog,Low,1406,14,On Time
+FL1131,SpiceJet,Bangalore,Delhi,2025-02-12,00:15,00:15,Clear,Medium,1917,0,On Time
+FL1132,IndiGo,Kochi,Pune,2025-01-02,05:30,05:30,Clear,Low,1819,0,On Time
+FL1133,Vistara,Jaipur,Delhi,2025-02-17,02:45,03:11,Thunderstorm,Medium,1515,26,Delayed
+FL1134,Air India,Ahmedabad,Jaipur,2025-01-15,19:00,19:30,Fog,Medium,363,30,Delayed
+FL1135,Air India,Ahmedabad,Kolkata,2025-01-28,21:00,22:08,Thunderstorm,High,450,68,Delayed
+FL1136,Air India,Pune,Bangalore,2025-01-05,04:30,04:59,Fog,Medium,1386,29,Delayed
+FL1137,SpiceJet,Ahmedabad,Jaipur,2025-02-08,13:00,13:21,Clear,High,1180,21,Delayed
+FL1138,Vistara,Chennai,Kolkata,2025-01-22,14:45,15:23,Thunderstorm,High,1174,38,Delayed
+FL1139,SpiceJet,Hyderabad,Pune,2025-01-10,21:45,21:45,Clear,Low,474,0,On Time
+FL1140,Air India,Kolkata,Delhi,2025-02-17,23:30,00:06,Rain,High,1672,36,Delayed
+FL1141,Air India,Kolkata,Pune,2025-02-25,21:45,21:45,Clear,Medium,1529,0,On Time
+FL1142,SpiceJet,Pune,Delhi,2025-02-06,16:15,17:02,Rain,High,521,47,Delayed
+FL1143,SpiceJet,Jaipur,Pune,2025-01-08,08:15,09:04,Thunderstorm,High,1547,49,Delayed
+FL1144,SpiceJet,Mumbai,Bangalore,2025-01-18,22:30,22:40,Fog,Medium,671,10,On Time
+FL1145,IndiGo,Kochi,Kolkata,2025-01-05,04:00,04:21,Clear,High,1070,21,Delayed
+FL1146,Vistara,Ahmedabad,Pune,2025-01-11,11:30,12:16,Fog,High,407,46,Delayed
+FL1147,IndiGo,Bangalore,Mumbai,2025-02-13,02:30,03:23,Thunderstorm,High,1543,53,Delayed
+FL1148,Vistara,Kolkata,Hyderabad,2025-01-14,16:00,16:13,Fog,Medium,880,13,On Time
+FL1149,Akasa Air,Ahmedabad,Jaipur,2025-02-12,09:00,09:29,Rain,Medium,412,29,Delayed
+FL1150,Air India,Chennai,Hyderabad,2025-03-02,06:15,06:35,Fog,Medium,545,20,Delayed
+FL1151,Air India,Ahmedabad,Kolkata,2025-01-12,04:45,05:38,Rain,High,447,53,Delayed
+FL1152,Vistara,Mumbai,Kolkata,2025-01-02,14:00,14:50,Fog,High,1753,50,Delayed
+FL1153,Vistara,Hyderabad,Delhi,2025-01-26,00:30,01:20,Rain,High,480,50,Delayed
+FL1154,Vistara,Delhi,Chennai,2025-01-28,18:45,18:45,Clear,Medium,935,0,On Time
+FL1155,SpiceJet,Chennai,Pune,2025-02-19,05:00,05:21,Clear,High,1889,21,Delayed
+FL1156,SpiceJet,Pune,Bangalore,2025-01-16,03:15,03:30,Fog,Low,1533,15,On Time
+FL1157,IndiGo,Delhi,Bangalore,2025-03-02,20:45,21:48,Thunderstorm,High,1694,63,Delayed
+FL1158,Akasa Air,Kochi,Pune,2025-02-25,20:30,20:42,Rain,Medium,1260,12,On Time
+FL1159,Vistara,Hyderabad,Kochi,2025-02-07,01:30,01:30,Clear,Medium,1245,0,On Time
+FL1160,Vistara,Mumbai,Kochi,2025-01-24,09:00,09:27,Clear,High,1247,27,Delayed
+FL1161,Akasa Air,Jaipur,Mumbai,2025-01-29,18:15,18:59,Fog,High,426,44,Delayed
+FL1162,Vistara,Delhi,Pune,2025-02-15,02:15,02:15,Clear,Low,1749,0,On Time
+FL1163,Vistara,Ahmedabad,Jaipur,2025-02-03,19:15,19:54,Fog,Medium,879,39,Delayed
+FL1164,Vistara,Kolkata,Pune,2025-02-13,19:00,19:20,Fog,Low,493,20,Delayed
+FL1165,Akasa Air,Kolkata,Hyderabad,2025-01-17,23:15,23:43,Fog,Low,1659,28,Delayed
+FL1166,IndiGo,Pune,Hyderabad,2025-02-11,22:45,23:34,Rain,High,934,49,Delayed
+FL1167,Akasa Air,Kolkata,Pune,2025-02-22,04:00,04:36,Thunderstorm,High,1042,36,Delayed
+FL1168,SpiceJet,Bangalore,Chennai,2025-01-22,15:15,15:29,Rain,Low,458,14,On Time
+FL1169,SpiceJet,Delhi,Jaipur,2025-02-19,17:00,17:41,Fog,High,615,41,Delayed
+FL1170,IndiGo,Bangalore,Kochi,2025-02-16,14:00,14:31,Thunderstorm,Medium,1773,31,Delayed
+FL1171,IndiGo,Ahmedabad,Hyderabad,2025-02-18,23:45,00:26,Rain,High,1956,41,Delayed
+FL1172,Vistara,Chennai,Pune,2025-02-13,18:45,19:19,Thunderstorm,Medium,1082,34,Delayed
+FL1173,Akasa Air,Jaipur,Kolkata,2025-01-11,06:15,06:45,Fog,Low,1284,30,Delayed
+FL1174,SpiceJet,Jaipur,Delhi,2025-02-15,16:00,16:34,Fog,Low,628,34,Delayed
+FL1175,SpiceJet,Ahmedabad,Jaipur,2025-01-10,13:00,13:38,Rain,Medium,1015,38,Delayed
+FL1176,Air India,Kolkata,Mumbai,2025-01-26,16:30,16:42,Rain,Medium,1067,12,On Time
+FL1177,IndiGo,Mumbai,Pune,2025-03-01,03:30,03:41,Rain,Low,887,11,On Time
+FL1178,Vistara,Bangalore,Ahmedabad,2025-01-29,19:00,19:00,Clear,Low,824,0,On Time
+FL1179,IndiGo,Bangalore,Jaipur,2025-03-02,23:45,23:45,Clear,Medium,786,0,On Time
+FL1180,SpiceJet,Delhi,Mumbai,2025-01-16,13:45,13:45,Clear,Low,1323,0,On Time
+FL1181,Akasa Air,Jaipur,Mumbai,2025-02-10,16:15,16:38,Rain,Medium,303,23,Delayed
+FL1182,Akasa Air,Pune,Chennai,2025-02-06,13:15,13:41,Clear,High,438,26,Delayed
+FL1183,Akasa Air,Jaipur,Kochi,2025-02-20,16:00,16:11,Thunderstorm,Medium,1601,11,On Time
+FL1184,Vistara,Pune,Hyderabad,2025-02-17,00:30,00:30,Clear,Medium,793,0,On Time
+FL1185,Air India,Kochi,Pune,2025-01-09,01:30,02:14,Fog,High,1724,44,Delayed
+FL1186,Vistara,Bangalore,Kochi,2025-01-05,22:45,22:45,Clear,Medium,712,0,On Time
+FL1187,Air India,Chennai,Mumbai,2025-01-21,09:45,09:56,Thunderstorm,Medium,1842,11,On Time
+FL1188,IndiGo,Hyderabad,Pune,2025-02-25,01:30,02:05,Fog,Low,1053,35,Delayed
+FL1189,Vistara,Kolkata,Ahmedabad,2025-02-27,12:30,13:02,Rain,Medium,1318,32,Delayed
+FL1190,SpiceJet,Jaipur,Hyderabad,2025-02-21,02:45,02:45,Clear,Medium,1533,0,On Time
+FL1191,IndiGo,Jaipur,Hyderabad,2025-01-21,03:00,03:43,Fog,High,1213,43,Delayed
+FL1192,Akasa Air,Kolkata,Bangalore,2025-02-14,14:30,15:03,Thunderstorm,Low,1022,33,Delayed
+FL1193,Akasa Air,Kolkata,Hyderabad,2025-02-10,01:00,01:26,Thunderstorm,Medium,1940,26,Delayed
+FL1194,IndiGo,Mumbai,Bangalore,2025-02-24,19:45,19:45,Clear,Low,437,0,On Time
+FL1195,IndiGo,Pune,Kochi,2025-01-25,18:00,18:50,Rain,High,1061,50,Delayed
+FL1196,Vistara,Delhi,Bangalore,2025-02-03,11:45,12:25,Fog,High,532,40,Delayed
+FL1197,Air India,Bangalore,Ahmedabad,2025-02-03,12:00,12:32,Fog,Medium,1213,32,Delayed
+FL1198,IndiGo,Kochi,Hyderabad,2025-02-14,15:15,15:15,Clear,Low,451,0,On Time
+FL1199,Vistara,Bangalore,Ahmedabad,2025-01-06,21:30,22:06,Fog,High,914,36,Delayed
+FL1200,IndiGo,Bangalore,Pune,2025-02-02,07:00,07:17,Rain,Low,1918,17,Delayed
+FL1201,Vistara,Mumbai,Pune,2025-02-05,18:30,19:01,Thunderstorm,High,434,31,Delayed
+FL1202,SpiceJet,Kolkata,Ahmedabad,2025-02-03,13:45,13:45,Clear,Low,949,0,On Time
+FL1203,Air India,Ahmedabad,Kochi,2025-02-13,16:30,17:20,Rain,High,1872,50,Delayed
+FL1204,IndiGo,Kolkata,Jaipur,2025-02-28,01:00,01:15,Rain,Medium,631,15,On Time
+FL1205,SpiceJet,Chennai,Pune,2025-03-02,16:30,16:30,Clear,Medium,702,0,On Time
+FL1206,Akasa Air,Hyderabad,Bangalore,2025-02-10,09:00,09:59,Rain,High,650,59,Delayed
+FL1207,Akasa Air,Kochi,Pune,2025-02-23,18:00,18:00,Clear,Low,393,0,On Time
+FL1208,Akasa Air,Hyderabad,Chennai,2025-02-19,18:45,18:45,Clear,Medium,1584,0,On Time
+FL1209,Akasa Air,Hyderabad,Kochi,2025-01-31,07:45,07:57,Fog,Medium,1710,12,On Time
+FL1210,Air India,Bangalore,Ahmedabad,2025-01-27,15:45,16:14,Rain,Medium,594,29,Delayed
+FL1211,SpiceJet,Pune,Kochi,2025-01-26,04:30,04:30,Clear,Medium,795,0,On Time
+FL1212,Vistara,Delhi,Hyderabad,2025-01-29,07:15,07:15,Clear,Low,894,0,On Time
+FL1213,Vistara,Kochi,Kolkata,2025-01-16,05:30,06:04,Fog,Low,626,34,Delayed
+FL1214,Vistara,Jaipur,Ahmedabad,2025-02-01,09:45,09:45,Clear,Low,1105,0,On Time
+FL1215,Akasa Air,Ahmedabad,Chennai,2025-01-14,18:30,18:30,Clear,Low,876,0,On Time
+FL1216,Vistara,Kochi,Ahmedabad,2025-01-19,17:00,17:00,Clear,Medium,574,0,On Time
+FL1217,SpiceJet,Pune,Kolkata,2025-01-24,01:45,02:06,Clear,High,1042,21,Delayed
+FL1218,Akasa Air,Hyderabad,Delhi,2025-01-25,16:45,17:34,Fog,High,563,49,Delayed
+FL1219,Air India,Kolkata,Pune,2025-02-20,10:30,10:59,Rain,Low,1342,29,Delayed
+FL1220,Vistara,Jaipur,Mumbai,2025-01-03,01:15,01:41,Fog,Medium,1235,26,Delayed
+FL1221,IndiGo,Kochi,Jaipur,2025-01-09,10:30,10:59,Rain,Medium,1814,29,Delayed
+FL1222,SpiceJet,Kochi,Pune,2025-02-02,16:45,17:21,Fog,Medium,334,36,Delayed
+FL1223,SpiceJet,Pune,Delhi,2025-01-27,18:30,19:00,Clear,High,843,30,Delayed
+FL1224,Akasa Air,Kochi,Chennai,2025-02-16,01:45,02:42,Rain,High,602,57,Delayed
+FL1225,IndiGo,Mumbai,Delhi,2025-01-13,00:45,00:59,Fog,Medium,1145,14,On Time
+FL1226,IndiGo,Kolkata,Jaipur,2025-02-19,19:45,20:04,Clear,High,1362,19,Delayed
+FL1227,IndiGo,Jaipur,Pune,2025-02-12,15:45,16:09,Fog,Low,1391,24,Delayed
+FL1228,SpiceJet,Jaipur,Pune,2025-02-13,23:30,00:10,Thunderstorm,Low,804,40,Delayed
+FL1229,SpiceJet,Jaipur,Hyderabad,2025-01-15,09:30,10:32,Rain,High,949,62,Delayed
+FL1230,Vistara,Pune,Jaipur,2025-03-01,23:30,23:58,Fog,Low,1685,28,Delayed
+FL1231,Akasa Air,Kolkata,Kochi,2025-02-22,11:15,11:34,Fog,Low,1762,19,Delayed
+FL1232,Air India,Pune,Ahmedabad,2025-02-11,08:45,09:21,Rain,Low,1403,36,Delayed
+FL1233,SpiceJet,Jaipur,Hyderabad,2025-01-09,03:15,03:46,Rain,Low,1387,31,Delayed
+FL1234,IndiGo,Chennai,Mumbai,2025-01-07,13:30,14:01,Thunderstorm,Low,1878,31,Delayed
+FL1235,IndiGo,Mumbai,Jaipur,2025-03-01,05:45,06:15,Thunderstorm,Medium,708,30,Delayed
+FL1236,SpiceJet,Pune,Hyderabad,2025-02-11,01:00,01:49,Rain,High,658,49,Delayed
+FL1237,Vistara,Bangalore,Mumbai,2025-02-23,12:45,13:49,Rain,High,376,64,Delayed
+FL1238,Air India,Hyderabad,Delhi,2025-03-01,10:30,11:27,Thunderstorm,High,574,57,Delayed
+FL1239,Akasa Air,Ahmedabad,Hyderabad,2025-01-13,03:30,04:17,Rain,High,1771,47,Delayed
+FL1240,IndiGo,Mumbai,Pune,2025-02-20,09:15,10:19,Rain,High,1993,64,Delayed
+FL1241,Vistara,Jaipur,Pune,2025-01-06,12:00,12:25,Rain,Low,962,25,Delayed
+FL1242,IndiGo,Mumbai,Hyderabad,2025-01-25,07:45,08:04,Fog,Medium,1492,19,Delayed
+FL1243,Akasa Air,Mumbai,Hyderabad,2025-02-11,11:15,11:33,Clear,High,1253,18,Delayed
+FL1244,SpiceJet,Bangalore,Kolkata,2025-02-13,16:30,16:54,Clear,High,1052,24,Delayed
+FL1245,Akasa Air,Chennai,Kochi,2025-01-09,15:15,16:10,Thunderstorm,High,1151,55,Delayed
+FL1246,Akasa Air,Ahmedabad,Jaipur,2025-02-21,21:15,22:06,Rain,High,1376,51,Delayed
+FL1247,Vistara,Jaipur,Pune,2025-01-05,18:00,18:21,Clear,High,1472,21,Delayed
+FL1248,Akasa Air,Bangalore,Kochi,2025-01-21,16:45,17:06,Clear,High,1768,21,Delayed
+FL1249,Akasa Air,Ahmedabad,Delhi,2025-02-27,16:45,16:45,Clear,Medium,570,0,On Time
+FL1250,Akasa Air,Kolkata,Ahmedabad,2025-02-06,01:45,02:22,Fog,High,821,37,Delayed
+FL1251,Air India,Chennai,Delhi,2025-01-03,13:30,13:46,Clear,High,441,16,Delayed
+FL1252,Vistara,Mumbai,Hyderabad,2025-01-27,05:15,05:53,Thunderstorm,Medium,1083,38,Delayed
+FL1253,Vistara,Kolkata,Kochi,2025-01-06,21:15,21:30,Fog,Low,1400,15,On Time
+FL1254,Vistara,Jaipur,Bangalore,2025-02-16,07:00,07:00,Clear,Medium,1248,0,On Time
+FL1255,Akasa Air,Kolkata,Jaipur,2025-01-25,07:15,07:29,Thunderstorm,Medium,864,14,On Time
+FL1256,IndiGo,Delhi,Mumbai,2025-02-21,21:45,21:45,Clear,Low,722,0,On Time
+FL1257,Air India,Delhi,Mumbai,2025-01-29,19:00,19:38,Rain,High,1198,38,Delayed
+FL1258,IndiGo,Jaipur,Chennai,2025-02-18,01:15,01:51,Fog,Low,1798,36,Delayed
+FL1259,Akasa Air,Pune,Kochi,2025-01-16,09:15,09:34,Rain,Medium,863,19,Delayed
+FL1260,Air India,Jaipur,Bangalore,2025-02-10,21:45,22:06,Thunderstorm,Low,1617,21,Delayed
+FL1261,Vistara,Jaipur,Pune,2025-02-14,13:45,14:07,Rain,Medium,676,22,Delayed
+FL1262,Akasa Air,Ahmedabad,Chennai,2025-02-24,07:30,08:09,Rain,Medium,418,39,Delayed
+FL1263,Akasa Air,Kolkata,Kochi,2025-02-05,16:15,16:33,Thunderstorm,Low,716,18,Delayed
+FL1264,SpiceJet,Delhi,Ahmedabad,2025-02-24,11:00,11:18,Rain,Low,1072,18,Delayed
+FL1265,Akasa Air,Kochi,Mumbai,2025-02-25,02:15,02:31,Rain,Medium,981,16,Delayed
+FL1266,SpiceJet,Mumbai,Chennai,2025-03-01,06:00,06:32,Thunderstorm,Low,1537,32,Delayed
+FL1267,IndiGo,Kolkata,Chennai,2025-02-05,10:30,10:57,Thunderstorm,Medium,1628,27,Delayed
+FL1268,SpiceJet,Hyderabad,Kochi,2025-01-24,16:45,17:20,Thunderstorm,Low,1779,35,Delayed
+FL1269,Vistara,Pune,Chennai,2025-01-24,10:45,11:07,Clear,High,1818,22,Delayed
+FL1270,IndiGo,Mumbai,Hyderabad,2025-02-05,18:45,19:01,Fog,Low,975,16,Delayed
+FL1271,IndiGo,Kolkata,Chennai,2025-02-01,17:30,18:10,Fog,Medium,1781,40,Delayed
+FL1272,Vistara,Ahmedabad,Bangalore,2025-02-16,11:15,12:12,Rain,High,676,57,Delayed
+FL1273,Akasa Air,Mumbai,Jaipur,2025-01-03,02:00,02:00,Clear,Medium,581,0,On Time
+FL1274,IndiGo,Delhi,Bangalore,2025-01-01,06:45,07:14,Fog,Low,1606,29,Delayed
+FL1275,Akasa Air,Ahmedabad,Kochi,2025-01-02,00:45,00:45,Clear,Low,1384,0,On Time
+FL1276,SpiceJet,Jaipur,Hyderabad,2025-01-02,16:45,17:24,Rain,Low,497,39,Delayed
+FL1277,Akasa Air,Bangalore,Chennai,2025-01-13,19:30,20:05,Fog,Medium,1112,35,Delayed
+FL1278,Air India,Pune,Kolkata,2025-01-30,18:15,18:46,Rain,Medium,1995,31,Delayed
+FL1279,Air India,Mumbai,Delhi,2025-01-26,12:45,13:15,Thunderstorm,Low,319,30,Delayed
+FL1280,IndiGo,Delhi,Ahmedabad,2025-02-24,13:30,13:46,Clear,High,770,16,Delayed
+FL1281,IndiGo,Kochi,Ahmedabad,2025-01-18,01:00,01:44,Fog,High,667,44,Delayed
+FL1282,SpiceJet,Mumbai,Chennai,2025-02-07,04:45,04:45,Clear,Medium,632,0,On Time
+FL1283,Akasa Air,Chennai,Kolkata,2025-02-13,17:30,18:01,Thunderstorm,High,1325,31,Delayed
+FL1284,SpiceJet,Mumbai,Delhi,2025-01-28,07:00,08:01,Fog,High,1884,61,Delayed
+FL1285,SpiceJet,Mumbai,Hyderabad,2025-02-20,14:45,15:12,Rain,Medium,1068,27,Delayed
+FL1286,Vistara,Bangalore,Kolkata,2025-01-06,19:30,19:59,Rain,High,848,29,Delayed
+FL1287,IndiGo,Kolkata,Bangalore,2025-02-17,12:30,12:42,Fog,Low,310,12,On Time
+FL1288,SpiceJet,Ahmedabad,Pune,2025-02-18,08:00,08:15,Rain,Low,1182,15,On Time
+FL1289,Vistara,Jaipur,Kochi,2025-02-02,13:00,13:00,Clear,Low,1024,0,On Time
+FL1290,Akasa Air,Delhi,Pune,2025-02-25,12:00,12:22,Fog,Medium,1895,22,Delayed
+FL1291,Air India,Jaipur,Chennai,2025-02-06,16:15,16:29,Thunderstorm,Low,850,14,On Time
+FL1292,SpiceJet,Hyderabad,Ahmedabad,2025-01-10,02:15,02:38,Thunderstorm,Medium,913,23,Delayed
+FL1293,Vistara,Delhi,Pune,2025-01-17,07:45,07:58,Rain,Medium,577,13,On Time
+FL1294,SpiceJet,Mumbai,Kolkata,2025-01-22,19:45,20:05,Fog,Medium,1181,20,Delayed
+FL1295,Akasa Air,Bangalore,Hyderabad,2025-01-21,19:15,19:30,Thunderstorm,Medium,1115,15,On Time
+FL1296,SpiceJet,Hyderabad,Ahmedabad,2025-02-06,07:30,08:06,Thunderstorm,Medium,1909,36,Delayed
+FL1297,Vistara,Pune,Delhi,2025-03-01,18:15,19:04,Rain,High,1789,49,Delayed
+FL1298,Vistara,Chennai,Ahmedabad,2025-02-21,09:00,09:44,Thunderstorm,High,1597,44,Delayed
+FL1299,SpiceJet,Chennai,Hyderabad,2025-02-12,04:45,05:09,Thunderstorm,Low,1524,24,Delayed
+FL1300,Vistara,Kochi,Kolkata,2025-02-04,16:45,16:45,Clear,Medium,1736,0,On Time
+FL1301,Akasa Air,Kochi,Delhi,2025-01-07,07:30,08:15,Rain,High,1453,45,Delayed
+FL1302,Vistara,Pune,Kolkata,2025-01-07,00:00,00:26,Fog,Low,1829,26,Delayed
+FL1303,Akasa Air,Jaipur,Chennai,2025-01-29,11:45,12:32,Thunderstorm,High,1006,47,Delayed
+FL1304,Air India,Ahmedabad,Delhi,2025-01-19,13:00,13:19,Clear,High,1013,19,Delayed
+FL1305,SpiceJet,Pune,Ahmedabad,2025-02-20,06:45,06:58,Fog,Medium,1197,13,On Time
+FL1306,Vistara,Pune,Delhi,2025-01-20,01:00,01:00,Clear,Medium,1627,0,On Time
+FL1307,Air India,Bangalore,Chennai,2025-02-03,05:15,06:07,Fog,High,774,52,Delayed
+FL1308,Vistara,Bangalore,Kochi,2025-02-10,21:45,22:18,Thunderstorm,Low,1557,33,Delayed
+FL1309,IndiGo,Ahmedabad,Kolkata,2025-01-25,00:15,00:49,Rain,Medium,1741,34,Delayed
+FL1310,Air India,Kochi,Delhi,2025-02-21,17:15,17:31,Fog,Medium,1237,16,Delayed
+FL1311,Air India,Hyderabad,Ahmedabad,2025-02-03,20:30,21:10,Thunderstorm,High,1012,40,Delayed
+FL1312,SpiceJet,Ahmedabad,Bangalore,2025-02-22,21:30,21:49,Clear,High,941,19,Delayed
+FL1313,Air India,Chennai,Hyderabad,2025-01-08,05:30,06:20,Rain,High,1521,50,Delayed
+FL1314,IndiGo,Kochi,Kolkata,2025-01-28,05:45,06:30,Rain,High,891,45,Delayed
+FL1315,IndiGo,Bangalore,Pune,2025-02-23,14:00,14:25,Fog,Low,579,25,Delayed
+FL1316,IndiGo,Kolkata,Jaipur,2025-02-02,20:45,21:38,Thunderstorm,High,1754,53,Delayed
+FL1317,Vistara,Ahmedabad,Bangalore,2025-01-06,18:00,18:11,Rain,Medium,862,11,On Time
+FL1318,IndiGo,Jaipur,Hyderabad,2025-01-11,14:45,15:03,Clear,High,848,18,Delayed
+FL1319,Akasa Air,Pune,Jaipur,2025-02-22,01:45,01:58,Rain,Medium,1807,13,On Time
+FL1320,IndiGo,Hyderabad,Mumbai,2025-01-29,08:30,08:30,Clear,Medium,540,0,On Time
+FL1321,IndiGo,Chennai,Pune,2025-02-25,22:45,23:20,Rain,High,1966,35,Delayed
+FL1322,IndiGo,Mumbai,Pune,2025-02-04,08:15,08:58,Fog,High,1472,43,Delayed
+FL1323,SpiceJet,Jaipur,Delhi,2025-01-09,13:00,13:33,Fog,High,811,33,Delayed
+FL1324,IndiGo,Pune,Chennai,2025-02-18,21:45,22:13,Thunderstorm,Low,1595,28,Delayed
+FL1325,SpiceJet,Kolkata,Kochi,2025-01-29,02:00,02:56,Thunderstorm,High,1722,56,Delayed
+FL1326,SpiceJet,Ahmedabad,Kochi,2025-01-21,18:00,18:29,Clear,High,1600,29,Delayed
+FL1327,SpiceJet,Delhi,Jaipur,2025-01-26,06:45,07:03,Rain,Medium,961,18,Delayed
+FL1328,SpiceJet,Pune,Jaipur,2025-02-06,04:45,05:35,Fog,High,394,50,Delayed
+FL1329,Air India,Ahmedabad,Mumbai,2025-01-08,05:45,06:25,Thunderstorm,Low,1176,40,Delayed
+FL1330,IndiGo,Bangalore,Hyderabad,2025-01-11,08:00,08:12,Fog,Medium,1061,12,On Time
+FL1331,IndiGo,Mumbai,Kolkata,2025-02-10,09:15,09:45,Thunderstorm,High,302,30,Delayed
+FL1332,IndiGo,Ahmedabad,Delhi,2025-01-09,18:15,18:25,Thunderstorm,Low,1724,10,On Time
+FL1333,SpiceJet,Delhi,Kolkata,2025-02-14,04:45,04:45,Clear,Low,1084,0,On Time
+FL1334,Air India,Delhi,Kochi,2025-01-21,11:30,12:04,Rain,Medium,1965,34,Delayed
+FL1335,IndiGo,Bangalore,Delhi,2025-02-03,18:00,18:21,Rain,Medium,1779,21,Delayed
+FL1336,IndiGo,Bangalore,Kolkata,2025-02-09,21:45,22:23,Rain,Low,505,38,Delayed
+FL1337,IndiGo,Delhi,Kolkata,2025-01-23,13:30,13:48,Rain,Low,1620,18,Delayed
+FL1338,Air India,Chennai,Jaipur,2025-02-08,19:30,19:54,Clear,High,720,24,Delayed
+FL1339,Akasa Air,Kochi,Jaipur,2025-01-13,23:45,00:18,Fog,High,1313,33,Delayed
+FL1340,Vistara,Delhi,Chennai,2025-02-01,20:00,20:00,Clear,Medium,948,0,On Time
+FL1341,IndiGo,Kolkata,Kochi,2025-01-24,17:15,17:25,Thunderstorm,Low,1502,10,On Time
+FL1342,Air India,Mumbai,Hyderabad,2025-01-14,01:00,01:47,Thunderstorm,High,1167,47,Delayed
+FL1343,Vistara,Delhi,Jaipur,2025-02-04,19:15,19:34,Fog,Low,461,19,Delayed
+FL1344,Akasa Air,Chennai,Bangalore,2025-02-04,10:45,10:45,Clear,Medium,1730,0,On Time
+FL1345,Vistara,Chennai,Mumbai,2025-01-16,02:45,02:45,Clear,Medium,1553,0,On Time
+FL1346,Akasa Air,Mumbai,Hyderabad,2025-02-12,23:15,23:15,Clear,Low,1749,0,On Time
+FL1347,IndiGo,Mumbai,Bangalore,2025-02-01,11:30,11:44,Rain,Medium,1835,14,On Time
+FL1348,SpiceJet,Delhi,Mumbai,2025-01-22,13:30,13:30,Clear,Medium,1758,0,On Time
+FL1349,Akasa Air,Delhi,Ahmedabad,2025-01-30,16:30,16:30,Clear,Medium,1460,0,On Time
+FL1350,IndiGo,Pune,Bangalore,2025-01-17,03:00,03:41,Rain,High,390,41,Delayed
+FL1351,Air India,Chennai,Mumbai,2025-01-31,11:45,12:24,Rain,Low,372,39,Delayed
+FL1352,Akasa Air,Kolkata,Chennai,2025-01-21,07:45,08:21,Fog,Medium,459,36,Delayed
+FL1353,Akasa Air,Pune,Delhi,2025-02-02,21:00,21:35,Rain,Low,1356,35,Delayed
+FL1354,Air India,Kolkata,Delhi,2025-02-26,14:30,14:42,Fog,Medium,1432,12,On Time
+FL1355,Vistara,Mumbai,Pune,2025-01-13,09:30,09:51,Rain,Medium,1511,21,Delayed
+FL1356,Vistara,Chennai,Jaipur,2025-02-18,07:15,07:15,Clear,Medium,348,0,On Time
+FL1357,IndiGo,Jaipur,Pune,2025-02-10,22:00,22:34,Fog,Low,1646,34,Delayed
+FL1358,Vistara,Hyderabad,Delhi,2025-01-14,16:15,16:55,Thunderstorm,Medium,422,40,Delayed
+FL1359,IndiGo,Hyderabad,Delhi,2025-01-03,07:45,08:18,Fog,Medium,473,33,Delayed
+FL1360,Akasa Air,Delhi,Jaipur,2025-01-09,20:45,21:01,Clear,High,1190,16,Delayed
+FL1361,IndiGo,Chennai,Hyderabad,2025-01-17,10:45,11:09,Fog,Medium,856,24,Delayed
+FL1362,IndiGo,Delhi,Chennai,2025-01-09,18:00,18:15,Rain,Low,1220,15,On Time
+FL1363,Vistara,Pune,Kolkata,2025-01-08,17:30,17:49,Rain,Medium,1248,19,Delayed
+FL1364,SpiceJet,Delhi,Kochi,2025-01-11,21:30,21:30,Clear,Low,971,0,On Time
+FL1365,IndiGo,Delhi,Chennai,2025-01-23,12:00,12:36,Fog,Medium,656,36,Delayed
+FL1366,Air India,Kolkata,Ahmedabad,2025-02-05,23:15,23:15,Clear,Medium,508,0,On Time
+FL1367,IndiGo,Delhi,Mumbai,2025-01-04,07:15,07:36,Rain,Medium,1705,21,Delayed
+FL1368,Air India,Kochi,Hyderabad,2025-02-28,02:00,02:00,Clear,Low,1622,0,On Time
+FL1369,Vistara,Bangalore,Delhi,2025-02-27,10:00,10:00,Clear,Medium,403,0,On Time
+FL1370,IndiGo,Kochi,Kolkata,2025-02-22,23:45,00:07,Thunderstorm,Low,1699,22,Delayed
+FL1371,Vistara,Bangalore,Pune,2025-01-14,05:30,06:08,Fog,Medium,604,38,Delayed
+FL1372,Air India,Kochi,Chennai,2025-02-11,09:45,10:26,Thunderstorm,High,479,41,Delayed
+FL1373,SpiceJet,Kolkata,Bangalore,2025-01-27,06:15,06:15,Clear,Medium,1901,0,On Time
+FL1374,SpiceJet,Ahmedabad,Jaipur,2025-02-20,15:30,15:48,Fog,Medium,668,18,Delayed
+FL1375,Air India,Pune,Chennai,2025-01-02,08:00,08:43,Thunderstorm,High,626,43,Delayed
+FL1376,Air India,Chennai,Kochi,2025-01-18,17:00,18:04,Rain,High,1026,64,Delayed
+FL1377,IndiGo,Bangalore,Chennai,2025-02-07,10:30,10:56,Clear,High,1462,26,Delayed
+FL1378,Akasa Air,Bangalore,Chennai,2025-02-23,15:30,15:41,Rain,Medium,484,11,On Time
+FL1379,Air India,Chennai,Kochi,2025-01-02,16:45,16:45,Clear,Medium,1557,0,On Time
+FL1380,IndiGo,Bangalore,Pune,2025-02-15,05:30,05:30,Clear,Low,602,0,On Time
+FL1381,Akasa Air,Bangalore,Delhi,2025-02-24,16:30,16:30,Clear,Medium,1742,0,On Time
+FL1382,Vistara,Kochi,Delhi,2025-01-22,09:30,10:03,Rain,Low,1194,33,Delayed
+FL1383,Vistara,Pune,Bangalore,2025-02-15,17:30,18:18,Rain,High,1074,48,Delayed
+FL1384,SpiceJet,Hyderabad,Bangalore,2025-01-12,23:00,23:31,Thunderstorm,High,1533,31,Delayed
+FL1385,SpiceJet,Kochi,Chennai,2025-02-10,18:00,18:20,Thunderstorm,Low,1826,20,Delayed
+FL1386,Air India,Chennai,Pune,2025-01-21,05:00,05:10,Fog,Medium,843,10,On Time
+FL1387,IndiGo,Chennai,Delhi,2025-01-23,08:00,08:00,Clear,Low,1090,0,On Time
+FL1388,Vistara,Kolkata,Bangalore,2025-02-26,13:45,14:12,Thunderstorm,Medium,1068,27,Delayed
+FL1389,Air India,Ahmedabad,Chennai,2025-01-11,14:00,14:00,Clear,Medium,341,0,On Time
+FL1390,SpiceJet,Hyderabad,Delhi,2025-01-05,10:15,10:48,Thunderstorm,Low,453,33,Delayed
+FL1391,Akasa Air,Delhi,Pune,2025-02-08,19:45,19:45,Clear,Medium,1638,0,On Time
+FL1392,IndiGo,Kochi,Kolkata,2025-01-11,01:00,01:16,Fog,Low,1138,16,Delayed
+FL1393,Akasa Air,Jaipur,Hyderabad,2025-02-12,09:30,09:41,Rain,Low,1104,11,On Time
+FL1394,Akasa Air,Jaipur,Ahmedabad,2025-01-10,01:30,01:30,Clear,Medium,479,0,On Time
+FL1395,SpiceJet,Kochi,Ahmedabad,2025-01-13,03:00,03:30,Rain,Low,897,30,Delayed
+FL1396,Air India,Ahmedabad,Delhi,2025-01-20,12:45,13:20,Thunderstorm,High,1614,35,Delayed
+FL1397,Akasa Air,Kolkata,Bangalore,2025-01-24,12:30,12:41,Rain,Medium,839,11,On Time
+FL1398,Vistara,Ahmedabad,Hyderabad,2025-01-15,08:00,08:49,Rain,High,475,49,Delayed
+FL1399,SpiceJet,Jaipur,Kolkata,2025-02-18,18:15,18:15,Clear,Medium,1976,0,On Time
+FL1400,Akasa Air,Kolkata,Jaipur,2025-02-13,15:15,15:27,Thunderstorm,Medium,1108,12,On Time
+FL1401,Air India,Jaipur,Kochi,2025-02-21,18:15,18:15,Clear,Medium,654,0,On Time
+FL1402,IndiGo,Chennai,Kochi,2025-01-09,01:45,02:13,Clear,High,713,28,Delayed
+FL1403,IndiGo,Kochi,Hyderabad,2025-01-21,23:00,23:00,Clear,Medium,1439,0,On Time
+FL1404,Vistara,Jaipur,Pune,2025-02-24,08:45,09:13,Clear,High,530,28,Delayed
+FL1405,Vistara,Bangalore,Kochi,2025-02-06,18:00,18:18,Clear,High,1909,18,Delayed
+FL1406,SpiceJet,Jaipur,Pune,2025-02-26,13:30,14:25,Thunderstorm,High,376,55,Delayed
+FL1407,IndiGo,Hyderabad,Kolkata,2025-01-10,19:45,19:45,Clear,Medium,978,0,On Time
+FL1408,IndiGo,Mumbai,Ahmedabad,2025-02-28,08:30,08:30,Clear,Medium,1974,0,On Time
+FL1409,SpiceJet,Hyderabad,Kochi,2025-02-23,15:00,15:19,Rain,Low,1823,19,Delayed
+FL1410,Vistara,Pune,Hyderabad,2025-02-16,13:00,13:16,Rain,Medium,1987,16,Delayed
+FL1411,Vistara,Ahmedabad,Jaipur,2025-02-25,11:00,11:19,Rain,Low,1753,19,Delayed
+FL1412,Akasa Air,Kolkata,Bangalore,2025-02-19,16:00,16:38,Rain,Low,711,38,Delayed
+FL1413,Air India,Chennai,Mumbai,2025-01-30,01:30,01:51,Rain,Medium,1986,21,Delayed
+FL1414,Vistara,Jaipur,Kolkata,2025-02-10,03:00,03:25,Rain,Medium,1516,25,Delayed
+FL1415,Vistara,Bangalore,Ahmedabad,2025-02-07,17:30,18:06,Fog,Low,829,36,Delayed
+FL1416,Air India,Hyderabad,Mumbai,2025-01-25,01:15,01:45,Rain,Low,761,30,Delayed
+FL1417,IndiGo,Hyderabad,Kolkata,2025-02-02,00:00,00:30,Thunderstorm,Low,654,30,Delayed
+FL1418,Akasa Air,Mumbai,Chennai,2025-01-17,19:30,20:08,Fog,Medium,1071,38,Delayed
+FL1419,SpiceJet,Ahmedabad,Hyderabad,2025-01-14,14:30,14:58,Thunderstorm,High,1347,28,Delayed
+FL1420,SpiceJet,Jaipur,Hyderabad,2025-01-20,21:00,21:20,Thunderstorm,Low,866,20,Delayed
+FL1421,SpiceJet,Hyderabad,Kochi,2025-02-11,22:30,22:56,Rain,Low,1867,26,Delayed
+FL1422,IndiGo,Mumbai,Kolkata,2025-02-12,10:15,10:45,Clear,High,905,30,Delayed
+FL1423,SpiceJet,Kolkata,Kochi,2025-01-25,23:00,23:33,Rain,Medium,1760,33,Delayed
+FL1424,IndiGo,Jaipur,Ahmedabad,2025-02-28,21:30,22:06,Fog,Low,1646,36,Delayed
+FL1425,Akasa Air,Bangalore,Hyderabad,2025-01-07,15:15,16:10,Fog,High,1692,55,Delayed
+FL1426,SpiceJet,Delhi,Chennai,2025-01-23,07:30,07:51,Thunderstorm,Medium,833,21,Delayed
+FL1427,Akasa Air,Hyderabad,Ahmedabad,2025-02-24,03:45,04:02,Clear,High,1267,17,Delayed
+FL1428,IndiGo,Jaipur,Delhi,2025-02-25,21:45,21:56,Fog,Medium,608,11,On Time
+FL1429,IndiGo,Chennai,Pune,2025-01-27,18:45,19:22,Rain,Medium,1765,37,Delayed
+FL1430,IndiGo,Delhi,Ahmedabad,2025-01-22,20:15,20:41,Fog,High,1225,26,Delayed
+FL1431,SpiceJet,Chennai,Bangalore,2025-02-06,05:45,05:45,Clear,Low,1558,0,On Time
+FL1432,Vistara,Kolkata,Kochi,2025-01-28,15:45,15:45,Clear,Low,1393,0,On Time
+FL1433,IndiGo,Pune,Mumbai,2025-02-27,10:15,10:30,Clear,High,1583,15,On Time
+FL1434,IndiGo,Chennai,Pune,2025-01-20,04:00,04:52,Thunderstorm,High,642,52,Delayed
+FL1435,Air India,Mumbai,Hyderabad,2025-03-02,09:45,10:23,Fog,Medium,1706,38,Delayed
+FL1436,IndiGo,Pune,Ahmedabad,2025-01-23,06:15,06:32,Thunderstorm,Low,759,17,Delayed
+FL1437,IndiGo,Chennai,Mumbai,2025-02-07,16:15,16:15,Clear,Medium,1756,0,On Time
+FL1438,Air India,Kolkata,Hyderabad,2025-02-19,17:00,17:18,Clear,High,1638,18,Delayed
+FL1439,Air India,Mumbai,Delhi,2025-01-27,14:45,15:08,Clear,High,1271,23,Delayed
+FL1440,IndiGo,Chennai,Mumbai,2025-01-20,13:00,13:48,Fog,High,1157,48,Delayed
+FL1441,Air India,Jaipur,Delhi,2025-01-19,03:00,03:29,Thunderstorm,Low,709,29,Delayed
+FL1442,SpiceJet,Jaipur,Chennai,2025-01-23,22:45,22:56,Fog,Low,1422,11,On Time
+FL1443,Vistara,Chennai,Ahmedabad,2025-01-22,07:00,07:17,Clear,High,526,17,Delayed
+FL1444,Akasa Air,Ahmedabad,Bangalore,2025-03-02,02:00,02:00,Clear,Medium,1619,0,On Time
+FL1445,IndiGo,Ahmedabad,Hyderabad,2025-01-17,14:00,14:00,Clear,Low,380,0,On Time
+FL1446,SpiceJet,Pune,Kochi,2025-01-28,23:00,23:00,Clear,Low,319,0,On Time
+FL1447,IndiGo,Bangalore,Pune,2025-01-23,14:30,14:30,Clear,Medium,1969,0,On Time
+FL1448,SpiceJet,Bangalore,Delhi,2025-01-26,12:45,13:17,Fog,Medium,1279,32,Delayed
+FL1449,Vistara,Bangalore,Delhi,2025-01-09,22:00,22:23,Rain,Low,1509,23,Delayed
+FL1450,Vistara,Kochi,Ahmedabad,2025-01-12,19:45,20:14,Fog,High,1289,29,Delayed
+FL1451,Vistara,Delhi,Kolkata,2025-01-29,01:00,01:35,Fog,High,1742,35,Delayed
+FL1452,Akasa Air,Kochi,Chennai,2025-02-12,10:00,10:55,Thunderstorm,High,1286,55,Delayed
+FL1453,SpiceJet,Kolkata,Bangalore,2025-02-23,17:00,17:20,Clear,High,1335,20,Delayed
+FL1454,Vistara,Ahmedabad,Bangalore,2025-01-05,15:30,15:48,Rain,Medium,403,18,Delayed
+FL1455,Akasa Air,Chennai,Jaipur,2025-02-11,12:45,13:09,Rain,Low,1209,24,Delayed
+FL1456,Akasa Air,Ahmedabad,Delhi,2025-02-24,15:45,16:10,Fog,Low,1826,25,Delayed
+FL1457,Air India,Delhi,Kolkata,2025-01-27,01:00,01:24,Clear,High,1341,24,Delayed
+FL1458,Akasa Air,Chennai,Ahmedabad,2025-03-02,10:30,10:30,Clear,Low,1230,0,On Time
+FL1459,SpiceJet,Jaipur,Ahmedabad,2025-02-15,21:30,21:43,Thunderstorm,Low,1855,13,On Time
+FL1460,IndiGo,Mumbai,Pune,2025-01-23,20:30,20:59,Fog,High,636,29,Delayed
+FL1461,Vistara,Bangalore,Kolkata,2025-01-07,08:15,08:54,Rain,Low,1104,39,Delayed
+FL1462,IndiGo,Ahmedabad,Chennai,2025-02-15,10:00,10:39,Thunderstorm,Low,1596,39,Delayed
+FL1463,Akasa Air,Delhi,Ahmedabad,2025-01-30,21:15,21:41,Thunderstorm,Low,1807,26,Delayed
+FL1464,Air India,Jaipur,Kolkata,2025-02-23,18:45,19:33,Rain,High,1796,48,Delayed
+FL1465,IndiGo,Delhi,Kolkata,2025-02-12,19:30,19:59,Thunderstorm,Medium,1718,29,Delayed
+FL1466,IndiGo,Hyderabad,Kolkata,2025-01-22,09:45,10:08,Rain,Low,1533,23,Delayed
+FL1467,Akasa Air,Hyderabad,Jaipur,2025-02-25,10:15,10:44,Rain,Low,1763,29,Delayed
+FL1468,SpiceJet,Pune,Bangalore,2025-02-15,20:15,20:54,Fog,High,1451,39,Delayed
+FL1469,Vistara,Kochi,Kolkata,2025-02-13,23:30,23:56,Thunderstorm,Low,518,26,Delayed
+FL1470,Air India,Kolkata,Bangalore,2025-01-04,21:00,21:34,Rain,Medium,1908,34,Delayed
+FL1471,IndiGo,Hyderabad,Kochi,2025-01-10,01:30,02:07,Rain,High,1967,37,Delayed
+FL1472,Vistara,Delhi,Jaipur,2025-02-25,07:45,08:44,Rain,High,1719,59,Delayed
+FL1473,Air India,Kolkata,Kochi,2025-01-27,21:30,21:30,Clear,Low,1823,0,On Time
+FL1474,SpiceJet,Chennai,Ahmedabad,2025-02-23,07:30,08:31,Rain,High,902,61,Delayed
+FL1475,Vistara,Bangalore,Delhi,2025-01-12,05:00,05:23,Thunderstorm,Low,871,23,Delayed
+FL1476,Akasa Air,Hyderabad,Bangalore,2025-01-11,18:30,18:30,Clear,Medium,1255,0,On Time
+FL1477,IndiGo,Mumbai,Bangalore,2025-03-01,10:00,10:35,Fog,Medium,1472,35,Delayed
+FL1478,Akasa Air,Pune,Delhi,2025-02-20,22:30,22:56,Rain,Low,439,26,Delayed
+FL1479,Akasa Air,Bangalore,Kolkata,2025-02-04,17:45,17:45,Clear,Medium,753,0,On Time
+FL1480,IndiGo,Pune,Kochi,2025-01-24,09:15,10:06,Thunderstorm,High,534,51,Delayed
+FL1481,SpiceJet,Ahmedabad,Chennai,2025-02-27,20:15,20:40,Clear,High,1081,25,Delayed
+FL1482,Air India,Kolkata,Hyderabad,2025-02-04,23:30,23:56,Clear,High,1353,26,Delayed
+FL1483,Akasa Air,Ahmedabad,Kochi,2025-01-03,09:15,09:45,Fog,High,642,30,Delayed
+FL1484,Akasa Air,Jaipur,Mumbai,2025-02-10,02:15,02:56,Rain,High,721,41,Delayed
+FL1485,Akasa Air,Kolkata,Delhi,2025-02-17,21:15,21:15,Clear,Medium,1768,0,On Time
+FL1486,SpiceJet,Mumbai,Delhi,2025-01-05,01:15,01:49,Fog,High,829,34,Delayed
+FL1487,Vistara,Kolkata,Ahmedabad,2025-02-10,12:45,13:07,Fog,Low,1678,22,Delayed
+FL1488,Air India,Jaipur,Mumbai,2025-02-11,23:00,23:17,Clear,High,1032,17,Delayed
+FL1489,Akasa Air,Delhi,Hyderabad,2025-02-20,21:30,21:30,Clear,Medium,1867,0,On Time
+FL1490,Vistara,Kolkata,Kochi,2025-02-22,21:00,21:27,Thunderstorm,Low,750,27,Delayed
+FL1491,IndiGo,Kolkata,Jaipur,2025-01-19,20:15,21:19,Fog,High,322,64,Delayed
+FL1492,Akasa Air,Jaipur,Bangalore,2025-01-08,01:00,01:44,Thunderstorm,High,924,44,Delayed
+FL1493,IndiGo,Pune,Chennai,2025-01-27,20:15,20:32,Rain,Low,1563,17,Delayed
+FL1494,SpiceJet,Chennai,Delhi,2025-01-12,21:00,21:44,Thunderstorm,High,895,44,Delayed
+FL1495,Air India,Hyderabad,Delhi,2025-01-13,23:45,23:59,Fog,Medium,1674,14,On Time
+FL1496,IndiGo,Delhi,Hyderabad,2025-02-09,02:15,02:39,Fog,Medium,972,24,Delayed
+FL1497,Akasa Air,Hyderabad,Bangalore,2025-02-06,18:30,18:45,Fog,Medium,309,15,On Time
+FL1498,SpiceJet,Chennai,Kochi,2025-02-15,23:45,23:59,Fog,Medium,1691,14,On Time
+FL1499,SpiceJet,Ahmedabad,Kochi,2025-01-29,11:30,12:03,Thunderstorm,High,1622,33,Delayed
+FL1500,Akasa Air,Delhi,Hyderabad,2025-02-24,04:15,05:10,Fog,High,1789,55,Delayed
+FL1501,Air India,Mumbai,Jaipur,2025-02-10,00:45,01:12,Rain,Low,833,27,Delayed
+FL1502,Akasa Air,Jaipur,Ahmedabad,2025-02-11,04:30,05:08,Thunderstorm,Low,1881,38,Delayed
+FL1503,Akasa Air,Hyderabad,Bangalore,2025-01-30,16:00,16:26,Thunderstorm,Medium,321,26,Delayed
+FL1504,IndiGo,Kochi,Bangalore,2025-02-18,16:15,16:30,Thunderstorm,Low,1459,15,On Time
+FL1505,Akasa Air,Bangalore,Ahmedabad,2025-03-02,11:00,11:17,Rain,Medium,428,17,Delayed
+FL1506,SpiceJet,Pune,Chennai,2025-01-03,21:15,21:40,Fog,Medium,1231,25,Delayed
+FL1507,Air India,Mumbai,Pune,2025-01-07,22:30,23:17,Fog,High,1071,47,Delayed
+FL1508,Vistara,Pune,Delhi,2025-02-03,08:45,09:33,Rain,High,1973,48,Delayed
+FL1509,SpiceJet,Ahmedabad,Kochi,2025-02-26,19:00,19:15,Rain,Medium,771,15,On Time
+FL1510,Air India,Jaipur,Hyderabad,2025-01-14,04:15,04:44,Rain,Medium,1769,29,Delayed
+FL1511,Air India,Chennai,Kolkata,2025-02-21,10:00,10:55,Thunderstorm,High,731,55,Delayed
+FL1512,Akasa Air,Bangalore,Kolkata,2025-01-02,07:00,07:48,Rain,High,575,48,Delayed
+FL1513,Akasa Air,Mumbai,Bangalore,2025-01-04,05:30,06:37,Rain,High,1527,67,Delayed
+FL1514,Akasa Air,Mumbai,Hyderabad,2025-03-02,02:15,03:10,Thunderstorm,High,649,55,Delayed
+FL1515,IndiGo,Kolkata,Bangalore,2025-02-20,18:15,18:48,Fog,Low,1704,33,Delayed
+FL1516,SpiceJet,Ahmedabad,Delhi,2025-01-15,12:45,12:55,Rain,Low,714,10,On Time
+FL1517,Akasa Air,Jaipur,Kolkata,2025-02-22,04:00,04:38,Rain,Medium,1559,38,Delayed
+FL1518,Akasa Air,Mumbai,Jaipur,2025-02-02,03:00,03:29,Thunderstorm,High,1886,29,Delayed
+FL1519,Vistara,Jaipur,Kolkata,2025-01-24,01:45,02:20,Rain,Medium,1874,35,Delayed
+FL1520,Vistara,Pune,Delhi,2025-01-28,04:30,05:09,Thunderstorm,Low,471,39,Delayed
+FL1521,SpiceJet,Kochi,Jaipur,2025-01-27,08:15,08:30,Clear,High,1483,15,On Time
+FL1522,Akasa Air,Delhi,Jaipur,2025-01-01,12:15,12:36,Fog,Medium,518,21,Delayed
+FL1523,IndiGo,Kolkata,Hyderabad,2025-01-17,17:45,18:30,Fog,High,1846,45,Delayed
+FL1524,IndiGo,Kolkata,Jaipur,2025-02-20,17:45,18:12,Rain,Medium,1436,27,Delayed
+FL1525,Vistara,Hyderabad,Kochi,2025-02-06,11:45,12:20,Rain,High,1214,35,Delayed
+FL1526,IndiGo,Delhi,Chennai,2025-02-02,12:30,12:30,Clear,Low,1096,0,On Time
+FL1527,Air India,Delhi,Bangalore,2025-01-31,19:45,19:45,Clear,Low,838,0,On Time
+FL1528,IndiGo,Pune,Delhi,2025-02-08,01:45,02:39,Thunderstorm,High,1757,54,Delayed
+FL1529,Akasa Air,Mumbai,Bangalore,2025-02-10,15:45,15:45,Clear,Low,1645,0,On Time
+FL1530,Akasa Air,Hyderabad,Chennai,2025-01-03,19:15,19:52,Rain,High,789,37,Delayed
+FL1531,Air India,Bangalore,Delhi,2025-01-18,12:30,12:58,Thunderstorm,Medium,710,28,Delayed
+FL1532,Akasa Air,Mumbai,Delhi,2025-02-28,02:30,03:10,Fog,Medium,1970,40,Delayed
+FL1533,SpiceJet,Chennai,Kochi,2025-01-30,12:00,12:23,Fog,Low,1336,23,Delayed
+FL1534,Air India,Jaipur,Delhi,2025-02-02,09:30,09:53,Clear,High,1401,23,Delayed
+FL1535,Akasa Air,Hyderabad,Ahmedabad,2025-01-25,18:45,19:25,Rain,Medium,1888,40,Delayed
+FL1536,Vistara,Ahmedabad,Mumbai,2025-01-31,03:30,03:30,Clear,Medium,1597,0,On Time
+FL1537,IndiGo,Chennai,Pune,2025-01-27,11:00,11:19,Fog,Low,490,19,Delayed
+FL1538,Vistara,Pune,Delhi,2025-02-05,05:45,06:01,Fog,Medium,1474,16,Delayed
+FL1539,SpiceJet,Bangalore,Chennai,2025-02-01,23:15,23:55,Rain,High,723,40,Delayed
+FL1540,IndiGo,Chennai,Kochi,2025-02-23,19:30,19:43,Rain,Low,460,13,On Time
+FL1541,Vistara,Kochi,Mumbai,2025-02-18,17:00,17:29,Thunderstorm,Medium,945,29,Delayed
+FL1542,Vistara,Kochi,Hyderabad,2025-02-01,05:30,06:04,Thunderstorm,Low,1481,34,Delayed
+FL1543,IndiGo,Mumbai,Jaipur,2025-02-21,13:45,14:11,Clear,High,1106,26,Delayed
+FL1544,IndiGo,Ahmedabad,Delhi,2025-02-14,16:45,17:10,Fog,High,1680,25,Delayed
+FL1545,IndiGo,Kolkata,Delhi,2025-01-21,11:30,12:10,Rain,High,851,40,Delayed
+FL1546,Vistara,Kochi,Pune,2025-01-24,05:45,06:08,Thunderstorm,Low,1735,23,Delayed
+FL1547,SpiceJet,Pune,Kolkata,2025-01-18,14:15,15:08,Rain,High,1967,53,Delayed
+FL1548,Air India,Hyderabad,Chennai,2025-02-05,13:45,14:20,Rain,Low,1812,35,Delayed
+FL1549,IndiGo,Ahmedabad,Mumbai,2025-01-12,13:45,14:36,Rain,High,1908,51,Delayed
+FL1550,Vistara,Hyderabad,Kochi,2025-02-05,18:00,18:32,Thunderstorm,Low,634,32,Delayed
+FL1551,Air India,Chennai,Hyderabad,2025-01-31,20:00,20:43,Thunderstorm,High,1039,43,Delayed
+FL1552,SpiceJet,Jaipur,Kochi,2025-03-01,08:30,08:30,Clear,Medium,548,0,On Time
+FL1553,SpiceJet,Kochi,Chennai,2025-02-06,18:15,18:35,Fog,Medium,1678,20,Delayed
+FL1554,Akasa Air,Ahmedabad,Kochi,2025-02-26,02:45,03:15,Fog,Medium,596,30,Delayed
+FL1555,IndiGo,Pune,Kolkata,2025-02-10,19:45,19:45,Clear,Low,631,0,On Time
+FL1556,SpiceJet,Chennai,Pune,2025-01-21,20:30,21:27,Fog,High,855,57,Delayed
+FL1557,Vistara,Pune,Jaipur,2025-01-29,13:15,13:29,Rain,Low,1790,14,On Time
+FL1558,IndiGo,Hyderabad,Delhi,2025-01-14,05:45,05:45,Clear,Low,430,0,On Time
+FL1559,Vistara,Jaipur,Mumbai,2025-01-02,12:00,12:00,Clear,Medium,1565,0,On Time
+FL1560,IndiGo,Delhi,Kolkata,2025-01-20,07:15,07:45,Fog,Medium,558,30,Delayed
+FL1561,IndiGo,Jaipur,Bangalore,2025-01-02,01:30,01:54,Fog,Medium,1407,24,Delayed
+FL1562,SpiceJet,Jaipur,Ahmedabad,2025-01-09,22:15,23:16,Thunderstorm,High,1372,61,Delayed
+FL1563,Akasa Air,Hyderabad,Pune,2025-01-31,17:15,17:15,Clear,Medium,930,0,On Time
+FL1564,SpiceJet,Kolkata,Hyderabad,2025-01-10,09:00,09:19,Clear,High,1004,19,Delayed
+FL1565,SpiceJet,Ahmedabad,Jaipur,2025-01-01,22:45,22:55,Thunderstorm,Medium,1868,10,On Time
+FL1566,Vistara,Hyderabad,Chennai,2025-02-20,00:30,01:08,Rain,Medium,1448,38,Delayed
+FL1567,Vistara,Kolkata,Chennai,2025-01-11,22:45,23:03,Thunderstorm,Low,462,18,Delayed
+FL1568,Vistara,Chennai,Jaipur,2025-02-18,19:30,20:26,Fog,High,1145,56,Delayed
+FL1569,IndiGo,Delhi,Bangalore,2025-01-09,09:00,09:47,Thunderstorm,High,1734,47,Delayed
+FL1570,Akasa Air,Ahmedabad,Chennai,2025-01-21,00:15,00:30,Clear,High,680,15,On Time
+FL1571,Air India,Hyderabad,Kochi,2025-01-09,22:45,22:45,Clear,Low,484,0,On Time
+FL1572,IndiGo,Mumbai,Ahmedabad,2025-01-14,10:45,11:06,Fog,Medium,1249,21,Delayed
+FL1573,Air India,Pune,Delhi,2025-02-23,04:00,04:12,Fog,Medium,1412,12,On Time
+FL1574,Vistara,Bangalore,Chennai,2025-02-27,08:45,08:45,Clear,Low,1873,0,On Time
+FL1575,IndiGo,Kolkata,Ahmedabad,2025-01-16,23:00,23:33,Rain,Medium,1878,33,Delayed
+FL1576,Air India,Jaipur,Chennai,2025-01-31,12:30,13:00,Fog,Low,1791,30,Delayed
+FL1577,Air India,Jaipur,Kochi,2025-01-08,08:45,09:06,Fog,Low,406,21,Delayed
+FL1578,IndiGo,Delhi,Chennai,2025-02-10,13:30,13:30,Clear,Low,1926,0,On Time
+FL1579,SpiceJet,Kochi,Delhi,2025-01-26,07:00,07:30,Clear,High,1709,30,Delayed
+FL1580,Akasa Air,Bangalore,Pune,2025-02-19,02:15,02:27,Rain,Medium,1704,12,On Time
+FL1581,Akasa Air,Pune,Mumbai,2025-01-04,11:15,11:15,Clear,Low,1299,0,On Time
+FL1582,IndiGo,Pune,Jaipur,2025-02-20,20:30,21:01,Thunderstorm,High,1711,31,Delayed
+FL1583,Vistara,Pune,Bangalore,2025-01-17,01:45,02:34,Thunderstorm,High,688,49,Delayed
+FL1584,Akasa Air,Bangalore,Jaipur,2025-01-23,10:45,11:44,Fog,High,441,59,Delayed
+FL1585,Akasa Air,Bangalore,Ahmedabad,2025-01-19,08:30,09:04,Thunderstorm,Low,1606,34,Delayed
+FL1586,Akasa Air,Kolkata,Bangalore,2025-02-26,00:30,01:03,Rain,Medium,429,33,Delayed
+FL1587,Akasa Air,Kolkata,Chennai,2025-02-03,21:45,22:29,Rain,High,1139,44,Delayed
+FL1588,SpiceJet,Delhi,Kochi,2025-02-03,21:00,21:00,Clear,Low,665,0,On Time
+FL1589,Air India,Chennai,Delhi,2025-02-01,06:00,06:27,Clear,High,1647,27,Delayed
+FL1590,Vistara,Jaipur,Hyderabad,2025-01-04,11:15,11:15,Clear,Low,727,0,On Time
+FL1591,Vistara,Delhi,Ahmedabad,2025-02-21,20:00,21:01,Fog,High,1983,61,Delayed
+FL1592,SpiceJet,Mumbai,Hyderabad,2025-02-03,01:00,01:40,Fog,Low,742,40,Delayed
+FL1593,Akasa Air,Delhi,Kochi,2025-02-16,07:45,08:11,Rain,Low,1645,26,Delayed
+FL1594,IndiGo,Kochi,Bangalore,2025-02-05,23:45,00:11,Clear,High,1681,26,Delayed
+FL1595,Vistara,Kolkata,Delhi,2025-01-11,05:45,06:29,Fog,High,1021,44,Delayed
+FL1596,SpiceJet,Jaipur,Pune,2025-02-24,11:45,12:27,Thunderstorm,High,1453,42,Delayed
+FL1597,Akasa Air,Chennai,Kolkata,2025-02-19,17:30,17:54,Fog,Medium,1113,24,Delayed
+FL1598,Air India,Mumbai,Hyderabad,2025-02-08,00:15,00:34,Fog,Low,754,19,Delayed
+FL1599,IndiGo,Pune,Mumbai,2025-02-19,22:30,22:41,Rain,Low,1242,11,On Time
+FL1600,SpiceJet,Bangalore,Kochi,2025-01-17,11:15,11:50,Rain,Medium,915,35,Delayed
+FL1601,Air India,Kochi,Kolkata,2025-02-06,06:00,06:15,Fog,Medium,1299,15,On Time
+FL1602,Akasa Air,Delhi,Hyderabad,2025-01-03,23:45,23:45,Clear,Low,1878,0,On Time
+FL1603,SpiceJet,Pune,Kolkata,2025-01-27,03:15,03:42,Clear,High,410,27,Delayed
+FL1604,SpiceJet,Jaipur,Mumbai,2025-01-21,17:15,18:09,Fog,High,613,54,Delayed
+FL1605,Air India,Kolkata,Ahmedabad,2025-02-18,19:00,19:19,Rain,Medium,1910,19,Delayed
+FL1606,Vistara,Bangalore,Kochi,2025-01-22,02:45,03:12,Clear,High,837,27,Delayed
+FL1607,Air India,Kolkata,Jaipur,2025-01-28,22:15,22:42,Rain,Medium,705,27,Delayed
+FL1608,Vistara,Kolkata,Chennai,2025-02-05,19:15,19:33,Rain,Low,1890,18,Delayed
+FL1609,Vistara,Pune,Delhi,2025-01-08,21:45,22:06,Thunderstorm,Medium,690,21,Delayed
+FL1610,SpiceJet,Pune,Mumbai,2025-02-19,09:15,10:20,Fog,High,1576,65,Delayed
+FL1611,IndiGo,Ahmedabad,Mumbai,2025-03-01,07:15,07:49,Fog,Low,1791,34,Delayed
+FL1612,Air India,Delhi,Mumbai,2025-01-16,19:15,19:35,Fog,Low,1720,20,Delayed
+FL1613,Air India,Hyderabad,Ahmedabad,2025-01-31,00:30,01:18,Rain,High,717,48,Delayed
+FL1614,Akasa Air,Jaipur,Hyderabad,2025-02-05,15:15,15:15,Clear,Medium,1493,0,On Time
+FL1615,Akasa Air,Mumbai,Hyderabad,2025-01-11,01:30,02:22,Rain,High,408,52,Delayed
+FL1616,Vistara,Mumbai,Delhi,2025-01-25,21:30,21:40,Fog,Low,899,10,On Time
+FL1617,Vistara,Chennai,Kolkata,2025-02-02,22:00,22:37,Fog,Medium,1522,37,Delayed
+FL1618,Akasa Air,Delhi,Bangalore,2025-01-13,16:45,16:45,Clear,Low,806,0,On Time
+FL1619,Akasa Air,Hyderabad,Pune,2025-02-01,12:15,12:15,Clear,Medium,1701,0,On Time
+FL1620,SpiceJet,Pune,Hyderabad,2025-01-16,16:30,16:53,Clear,High,1092,23,Delayed
+FL1621,Air India,Jaipur,Hyderabad,2025-01-15,04:30,05:01,Thunderstorm,High,1794,31,Delayed
+FL1622,Vistara,Jaipur,Chennai,2025-01-27,07:15,07:54,Thunderstorm,Medium,1539,39,Delayed
+FL1623,SpiceJet,Ahmedabad,Jaipur,2025-01-09,06:15,06:34,Rain,Low,1710,19,Delayed
+FL1624,Akasa Air,Bangalore,Kolkata,2025-02-28,04:15,04:42,Fog,Low,1391,27,Delayed
+FL1625,Air India,Bangalore,Pune,2025-02-23,04:00,04:40,Fog,Medium,1142,40,Delayed
+FL1626,SpiceJet,Ahmedabad,Hyderabad,2025-01-10,06:00,06:10,Rain,Low,1861,10,On Time
+FL1627,Akasa Air,Kochi,Hyderabad,2025-02-08,18:15,18:46,Rain,Low,353,31,Delayed
+FL1628,SpiceJet,Delhi,Ahmedabad,2025-01-09,16:45,17:22,Fog,Low,1093,37,Delayed
+FL1629,Vistara,Ahmedabad,Bangalore,2025-01-11,06:15,06:15,Clear,Medium,1865,0,On Time
+FL1630,Air India,Hyderabad,Kolkata,2025-01-15,23:15,23:30,Rain,Low,1199,15,On Time
+FL1631,Akasa Air,Ahmedabad,Pune,2025-02-25,14:15,14:49,Thunderstorm,Medium,385,34,Delayed
+FL1632,Akasa Air,Kolkata,Pune,2025-01-26,19:00,19:00,Clear,Medium,1235,0,On Time
+FL1633,Air India,Chennai,Jaipur,2025-02-04,12:00,12:50,Thunderstorm,High,688,50,Delayed
+FL1634,SpiceJet,Ahmedabad,Kolkata,2025-02-26,09:30,09:53,Thunderstorm,Low,902,23,Delayed
+FL1635,Akasa Air,Mumbai,Jaipur,2025-02-27,04:45,05:18,Thunderstorm,Low,1325,33,Delayed
+FL1636,Air India,Bangalore,Jaipur,2025-01-09,12:45,12:55,Fog,Medium,666,10,On Time
+FL1637,Vistara,Kochi,Chennai,2025-02-26,14:00,14:32,Fog,Medium,1628,32,Delayed
+FL1638,IndiGo,Delhi,Kochi,2025-01-08,22:45,23:11,Fog,Low,1748,26,Delayed
+FL1639,Vistara,Jaipur,Bangalore,2025-01-25,17:45,17:45,Clear,Low,986,0,On Time
+FL1640,Akasa Air,Bangalore,Kochi,2025-02-25,04:15,04:15,Clear,Medium,930,0,On Time
+FL1641,SpiceJet,Ahmedabad,Hyderabad,2025-02-10,05:00,05:10,Rain,Low,1575,10,On Time
+FL1642,SpiceJet,Mumbai,Ahmedabad,2025-02-01,15:00,15:16,Thunderstorm,Low,1505,16,Delayed
+FL1643,Vistara,Ahmedabad,Kolkata,2025-01-29,02:00,02:39,Rain,High,400,39,Delayed
+FL1644,IndiGo,Bangalore,Mumbai,2025-02-11,11:00,11:31,Rain,Low,1483,31,Delayed
+FL1645,Akasa Air,Hyderabad,Pune,2025-02-28,02:00,02:00,Clear,Medium,665,0,On Time
+FL1646,IndiGo,Hyderabad,Jaipur,2025-01-12,14:30,14:30,Clear,Low,1873,0,On Time
+FL1647,SpiceJet,Pune,Kochi,2025-02-27,12:00,12:36,Thunderstorm,High,1264,36,Delayed
+FL1648,IndiGo,Delhi,Hyderabad,2025-01-22,16:45,17:17,Rain,High,523,32,Delayed
+FL1649,Akasa Air,Jaipur,Delhi,2025-01-31,23:30,00:32,Thunderstorm,High,831,62,Delayed
+FL1650,Akasa Air,Kochi,Pune,2025-03-01,04:45,05:20,Thunderstorm,Medium,668,35,Delayed
+FL1651,Akasa Air,Chennai,Hyderabad,2025-01-13,00:00,00:00,Clear,Medium,1580,0,On Time
+FL1652,Air India,Chennai,Kolkata,2025-01-27,01:30,02:26,Fog,High,323,56,Delayed
+FL1653,IndiGo,Hyderabad,Kochi,2025-02-20,02:30,03:22,Fog,High,1870,52,Delayed
+FL1654,Air India,Delhi,Pune,2025-01-22,12:00,12:20,Rain,Low,992,20,Delayed
+FL1655,Vistara,Ahmedabad,Mumbai,2025-02-11,04:45,05:34,Rain,High,1247,49,Delayed
+FL1656,Vistara,Mumbai,Jaipur,2025-01-20,18:30,18:30,Clear,Low,1482,0,On Time
+FL1657,SpiceJet,Pune,Delhi,2025-01-10,08:00,08:30,Fog,Medium,1394,30,Delayed
+FL1658,IndiGo,Kochi,Kolkata,2025-01-12,19:00,20:02,Fog,High,1753,62,Delayed
+FL1659,Air India,Hyderabad,Kolkata,2025-01-06,15:15,15:51,Fog,Medium,919,36,Delayed
+FL1660,IndiGo,Jaipur,Hyderabad,2025-01-12,03:30,03:30,Clear,Low,489,0,On Time
+FL1661,Vistara,Jaipur,Mumbai,2025-02-21,15:15,15:54,Rain,Medium,1290,39,Delayed
+FL1662,Akasa Air,Hyderabad,Pune,2025-01-10,03:15,03:55,Rain,High,1093,40,Delayed
+FL1663,Akasa Air,Delhi,Mumbai,2025-01-20,01:00,01:38,Fog,Medium,394,38,Delayed
+FL1664,Air India,Jaipur,Hyderabad,2025-01-02,18:30,18:46,Rain,Medium,694,16,Delayed
+FL1665,SpiceJet,Hyderabad,Jaipur,2025-01-21,14:00,14:15,Fog,Low,860,15,On Time
+FL1666,Air India,Mumbai,Jaipur,2025-02-02,03:15,03:58,Fog,High,589,43,Delayed
+FL1667,SpiceJet,Kochi,Chennai,2025-01-11,02:30,03:10,Fog,High,566,40,Delayed
+FL1668,Air India,Ahmedabad,Mumbai,2025-01-07,12:00,12:00,Clear,Medium,1102,0,On Time
+FL1669,IndiGo,Kochi,Ahmedabad,2025-02-09,11:30,12:02,Fog,Low,1853,32,Delayed
+FL1670,Akasa Air,Delhi,Ahmedabad,2025-02-06,04:00,04:24,Thunderstorm,Low,935,24,Delayed
+FL1671,Vistara,Ahmedabad,Chennai,2025-03-02,07:15,07:37,Fog,Medium,675,22,Delayed
+FL1672,SpiceJet,Pune,Ahmedabad,2025-02-01,00:00,00:21,Thunderstorm,Low,1280,21,Delayed
+FL1673,Vistara,Bangalore,Hyderabad,2025-02-19,11:15,11:15,Clear,Medium,1974,0,On Time
+FL1674,Air India,Pune,Jaipur,2025-02-11,02:30,02:58,Thunderstorm,Medium,1146,28,Delayed
+FL1675,IndiGo,Kochi,Chennai,2025-02-05,05:45,06:05,Thunderstorm,Low,726,20,Delayed
+FL1676,Akasa Air,Kolkata,Kochi,2025-02-06,10:15,11:03,Rain,High,1814,48,Delayed
+FL1677,Akasa Air,Ahmedabad,Delhi,2025-02-07,19:45,20:27,Fog,High,660,42,Delayed
+FL1678,SpiceJet,Kolkata,Delhi,2025-02-08,03:45,04:15,Fog,Medium,1652,30,Delayed
+FL1679,Air India,Delhi,Chennai,2025-02-22,04:00,04:43,Rain,High,1388,43,Delayed
+FL1680,SpiceJet,Kolkata,Ahmedabad,2025-01-13,06:30,07:29,Fog,High,1190,59,Delayed
+FL1681,SpiceJet,Delhi,Mumbai,2025-02-09,16:45,16:56,Rain,Medium,1056,11,On Time
+FL1682,Akasa Air,Mumbai,Kochi,2025-02-15,17:30,17:30,Clear,Medium,363,0,On Time
+FL1683,IndiGo,Kolkata,Kochi,2025-02-10,10:45,11:08,Thunderstorm,Medium,1416,23,Delayed
+FL1684,IndiGo,Bangalore,Ahmedabad,2025-01-09,06:45,06:59,Fog,Medium,890,14,On Time
+FL1685,IndiGo,Bangalore,Mumbai,2025-01-05,20:00,21:08,Rain,High,1647,68,Delayed
+FL1686,Vistara,Bangalore,Delhi,2025-01-09,20:45,21:42,Thunderstorm,High,1576,57,Delayed
+FL1687,IndiGo,Ahmedabad,Jaipur,2025-01-28,17:45,18:02,Thunderstorm,Medium,680,17,Delayed
+FL1688,Vistara,Kochi,Mumbai,2025-02-06,15:15,15:54,Fog,Medium,1418,39,Delayed
+FL1689,Akasa Air,Pune,Mumbai,2025-01-03,18:45,19:13,Fog,Low,1286,28,Delayed
+FL1690,Air India,Bangalore,Jaipur,2025-02-24,08:45,09:02,Clear,High,802,17,Delayed
+FL1691,Vistara,Delhi,Jaipur,2025-02-21,18:30,18:30,Clear,Medium,1395,0,On Time
+FL1692,Air India,Ahmedabad,Kochi,2025-02-02,15:30,16:10,Thunderstorm,Medium,1934,40,Delayed
+FL1693,SpiceJet,Hyderabad,Bangalore,2025-01-03,22:30,23:00,Fog,Low,1269,30,Delayed
+FL1694,Akasa Air,Bangalore,Mumbai,2025-02-12,09:00,09:12,Fog,Medium,559,12,On Time
+FL1695,Akasa Air,Delhi,Hyderabad,2025-01-17,04:30,04:40,Fog,Medium,1818,10,On Time
+FL1696,Air India,Kochi,Bangalore,2025-02-28,18:15,18:50,Thunderstorm,Medium,659,35,Delayed
+FL1697,SpiceJet,Chennai,Ahmedabad,2025-01-12,16:00,16:40,Fog,Low,597,40,Delayed
+FL1698,Akasa Air,Bangalore,Ahmedabad,2025-02-18,13:45,14:29,Rain,High,731,44,Delayed
+FL1699,Akasa Air,Pune,Mumbai,2025-02-11,08:00,08:00,Clear,Low,1250,0,On Time
+FL1700,Vistara,Ahmedabad,Hyderabad,2025-01-31,23:15,00:14,Thunderstorm,High,1271,59,Delayed
+FL1701,SpiceJet,Bangalore,Jaipur,2025-02-25,13:00,13:22,Fog,Medium,1689,22,Delayed
+FL1702,SpiceJet,Jaipur,Mumbai,2025-01-07,17:30,18:32,Thunderstorm,High,986,62,Delayed
+FL1703,SpiceJet,Hyderabad,Delhi,2025-01-17,20:45,21:40,Thunderstorm,High,1803,55,Delayed
+FL1704,Akasa Air,Chennai,Jaipur,2025-01-22,21:15,21:40,Fog,High,439,25,Delayed
+FL1705,Air India,Kolkata,Delhi,2025-02-03,03:45,04:18,Fog,Low,880,33,Delayed
+FL1706,SpiceJet,Chennai,Mumbai,2025-01-02,19:00,19:21,Clear,High,1527,21,Delayed
+FL1707,Air India,Delhi,Kochi,2025-02-24,19:15,20:09,Thunderstorm,High,527,54,Delayed
+FL1708,IndiGo,Hyderabad,Kochi,2025-01-30,21:00,21:34,Thunderstorm,Medium,1174,34,Delayed
+FL1709,SpiceJet,Hyderabad,Bangalore,2025-02-19,02:30,02:30,Clear,Medium,1095,0,On Time
+FL1710,SpiceJet,Mumbai,Hyderabad,2025-02-22,08:15,08:40,Thunderstorm,Low,710,25,Delayed
+FL1711,Akasa Air,Kolkata,Bangalore,2025-02-11,15:00,16:02,Rain,High,747,62,Delayed
+FL1712,Akasa Air,Delhi,Ahmedabad,2025-02-15,08:00,08:00,Clear,Low,444,0,On Time
+FL1713,Akasa Air,Hyderabad,Ahmedabad,2025-01-02,15:15,15:15,Clear,Low,1661,0,On Time
+FL1714,Vistara,Hyderabad,Bangalore,2025-02-14,10:45,11:15,Clear,High,1279,30,Delayed
+FL1715,Vistara,Kolkata,Delhi,2025-02-04,07:00,08:06,Thunderstorm,High,548,66,Delayed
+FL1716,Akasa Air,Jaipur,Pune,2025-01-22,21:30,22:00,Thunderstorm,Low,1625,30,Delayed
+FL1717,Air India,Pune,Jaipur,2025-02-24,10:00,10:30,Thunderstorm,Medium,715,30,Delayed
+FL1718,IndiGo,Jaipur,Mumbai,2025-01-25,21:15,21:55,Fog,High,1591,40,Delayed
+FL1719,SpiceJet,Ahmedabad,Delhi,2025-02-26,20:45,20:56,Rain,Low,695,11,On Time
+FL1720,Air India,Kochi,Chennai,2025-02-01,12:00,12:27,Fog,Medium,1962,27,Delayed
+FL1721,Vistara,Mumbai,Kochi,2025-01-22,01:30,01:30,Clear,Medium,542,0,On Time
+FL1722,IndiGo,Jaipur,Ahmedabad,2025-03-02,21:15,21:26,Rain,Low,1806,11,On Time
+FL1723,IndiGo,Ahmedabad,Mumbai,2025-01-31,19:00,19:49,Rain,High,329,49,Delayed
+FL1724,IndiGo,Mumbai,Hyderabad,2025-02-22,03:45,04:15,Rain,High,533,30,Delayed
+FL1725,Vistara,Kochi,Chennai,2025-01-05,06:45,07:43,Fog,High,964,58,Delayed
+FL1726,Air India,Kochi,Jaipur,2025-01-09,10:15,10:35,Clear,High,987,20,Delayed
+FL1727,Air India,Delhi,Hyderabad,2025-01-10,13:15,13:59,Fog,High,798,44,Delayed
+FL1728,Akasa Air,Mumbai,Bangalore,2025-01-07,20:45,21:23,Rain,Low,1297,38,Delayed
+FL1729,Air India,Mumbai,Kochi,2025-01-12,02:30,03:35,Thunderstorm,High,1717,65,Delayed
+FL1730,IndiGo,Chennai,Bangalore,2025-02-10,08:45,09:25,Thunderstorm,Low,657,40,Delayed
+FL1731,Akasa Air,Mumbai,Bangalore,2025-02-15,15:00,15:23,Fog,Medium,309,23,Delayed
+FL1732,Akasa Air,Chennai,Kochi,2025-01-08,16:00,16:48,Fog,High,1250,48,Delayed
+FL1733,IndiGo,Hyderabad,Mumbai,2025-01-13,03:15,03:30,Thunderstorm,Medium,627,15,On Time
+FL1734,Air India,Mumbai,Pune,2025-01-19,06:45,07:14,Fog,Medium,1948,29,Delayed
+FL1735,Vistara,Mumbai,Delhi,2025-02-17,01:15,01:40,Rain,Low,1354,25,Delayed
+FL1736,Air India,Delhi,Chennai,2025-02-16,14:30,15:03,Thunderstorm,Low,1686,33,Delayed
+FL1737,SpiceJet,Chennai,Delhi,2025-01-21,07:00,07:44,Rain,High,1069,44,Delayed
+FL1738,IndiGo,Delhi,Ahmedabad,2025-02-07,15:00,15:16,Thunderstorm,Low,1548,16,Delayed
+FL1739,Vistara,Bangalore,Kolkata,2025-01-24,04:45,05:29,Rain,High,714,44,Delayed
+FL1740,SpiceJet,Bangalore,Mumbai,2025-02-14,18:00,18:13,Fog,Low,1253,13,On Time
+FL1741,Vistara,Kolkata,Bangalore,2025-02-18,10:15,10:50,Fog,High,1483,35,Delayed
+FL1742,Akasa Air,Chennai,Delhi,2025-01-27,16:45,17:39,Rain,High,871,54,Delayed
+FL1743,Air India,Kolkata,Chennai,2025-01-16,10:45,11:44,Rain,High,1474,59,Delayed
+FL1744,Air India,Kolkata,Mumbai,2025-01-03,15:00,15:52,Thunderstorm,High,1958,52,Delayed
+FL1745,Air India,Ahmedabad,Kochi,2025-01-16,02:00,02:14,Thunderstorm,Low,1034,14,On Time
+FL1746,SpiceJet,Chennai,Delhi,2025-01-02,15:30,16:09,Rain,High,1231,39,Delayed
+FL1747,Vistara,Bangalore,Kolkata,2025-01-12,11:45,12:02,Clear,High,1088,17,Delayed
+FL1748,SpiceJet,Jaipur,Mumbai,2025-01-19,13:30,14:07,Rain,High,1806,37,Delayed
+FL1749,Air India,Jaipur,Pune,2025-02-26,01:00,01:24,Thunderstorm,Medium,1567,24,Delayed
+FL1750,Air India,Pune,Kochi,2025-01-12,20:00,20:20,Rain,Low,788,20,Delayed
+FL1751,Akasa Air,Delhi,Ahmedabad,2025-02-17,18:15,18:36,Rain,Medium,847,21,Delayed
+FL1752,Akasa Air,Kolkata,Hyderabad,2025-01-04,02:30,02:55,Fog,Medium,1326,25,Delayed
+FL1753,Akasa Air,Delhi,Ahmedabad,2025-02-15,17:30,18:08,Thunderstorm,High,685,38,Delayed
+FL1754,Vistara,Delhi,Kochi,2025-01-26,05:30,05:30,Clear,Low,637,0,On Time
+FL1755,SpiceJet,Delhi,Bangalore,2025-02-01,04:15,04:15,Clear,Medium,1153,0,On Time
+FL1756,Akasa Air,Bangalore,Ahmedabad,2025-01-23,13:45,13:45,Clear,Medium,687,0,On Time
+FL1757,Air India,Mumbai,Chennai,2025-02-23,16:30,17:15,Thunderstorm,High,1295,45,Delayed
+FL1758,Akasa Air,Jaipur,Kochi,2025-01-29,14:30,14:45,Rain,Medium,1916,15,On Time
+FL1759,SpiceJet,Chennai,Ahmedabad,2025-01-24,09:00,09:19,Rain,Medium,1233,19,Delayed
+FL1760,IndiGo,Kochi,Bangalore,2025-02-15,17:30,18:06,Rain,Low,1750,36,Delayed
+FL1761,IndiGo,Bangalore,Chennai,2025-01-08,01:30,01:48,Rain,Medium,1057,18,Delayed
+FL1762,IndiGo,Chennai,Jaipur,2025-02-15,01:30,01:51,Fog,Low,1218,21,Delayed
+FL1763,Akasa Air,Bangalore,Jaipur,2025-01-20,03:00,03:34,Thunderstorm,Medium,597,34,Delayed
+FL1764,Vistara,Pune,Bangalore,2025-01-01,23:30,00:08,Fog,Medium,893,38,Delayed
+FL1765,Akasa Air,Bangalore,Ahmedabad,2025-01-22,22:00,22:14,Thunderstorm,Low,1688,14,On Time
+FL1766,Akasa Air,Delhi,Hyderabad,2025-01-02,12:15,12:27,Thunderstorm,Medium,968,12,On Time
+FL1767,Air India,Kochi,Chennai,2025-02-07,16:15,16:25,Fog,Low,471,10,On Time
+FL1768,Akasa Air,Ahmedabad,Delhi,2025-02-02,12:15,12:44,Thunderstorm,Medium,1539,29,Delayed
+FL1769,Akasa Air,Mumbai,Pune,2025-01-26,04:45,05:06,Fog,Medium,324,21,Delayed
+FL1770,SpiceJet,Pune,Kochi,2025-01-20,14:00,15:07,Rain,High,1818,67,Delayed
+FL1771,Vistara,Ahmedabad,Hyderabad,2025-01-11,23:45,00:21,Thunderstorm,Low,1502,36,Delayed
+FL1772,Akasa Air,Delhi,Bangalore,2025-01-14,09:45,10:24,Fog,Low,1509,39,Delayed
+FL1773,Vistara,Delhi,Mumbai,2025-01-27,20:30,20:57,Thunderstorm,Low,1246,27,Delayed
+FL1774,Akasa Air,Bangalore,Chennai,2025-01-12,12:30,13:06,Thunderstorm,Low,1992,36,Delayed
+FL1775,SpiceJet,Kochi,Hyderabad,2025-02-01,17:45,18:20,Rain,Low,305,35,Delayed
+FL1776,IndiGo,Hyderabad,Kochi,2025-02-10,20:45,21:09,Clear,High,1154,24,Delayed
+FL1777,IndiGo,Ahmedabad,Chennai,2025-01-02,03:30,03:59,Thunderstorm,Low,1826,29,Delayed
+FL1778,SpiceJet,Kochi,Ahmedabad,2025-02-06,13:30,14:24,Thunderstorm,High,1064,54,Delayed
+FL1779,Akasa Air,Kochi,Mumbai,2025-02-24,08:15,08:15,Clear,Low,954,0,On Time
+FL1780,Vistara,Bangalore,Pune,2025-01-11,01:30,02:00,Fog,Medium,1029,30,Delayed
+FL1781,Air India,Hyderabad,Kochi,2025-02-03,20:00,20:33,Rain,High,1526,33,Delayed
+FL1782,IndiGo,Jaipur,Pune,2025-02-25,10:30,11:28,Fog,High,496,58,Delayed
+FL1783,Akasa Air,Kochi,Pune,2025-02-22,04:00,04:45,Rain,High,1894,45,Delayed
+FL1784,Vistara,Kolkata,Pune,2025-02-28,05:00,05:26,Rain,Low,752,26,Delayed
+FL1785,IndiGo,Jaipur,Kochi,2025-02-24,17:00,17:39,Thunderstorm,Medium,456,39,Delayed
+FL1786,Air India,Bangalore,Mumbai,2025-01-31,11:30,12:06,Fog,Low,1205,36,Delayed
+FL1787,Akasa Air,Jaipur,Pune,2025-01-12,22:30,22:48,Clear,High,755,18,Delayed
+FL1788,IndiGo,Bangalore,Chennai,2025-01-20,04:15,04:38,Rain,Low,1714,23,Delayed
+FL1789,Air India,Delhi,Mumbai,2025-02-19,15:45,15:45,Clear,Low,520,0,On Time
+FL1790,Air India,Jaipur,Mumbai,2025-01-31,03:30,03:30,Clear,Low,917,0,On Time
+FL1791,Air India,Delhi,Kochi,2025-02-28,19:15,19:46,Rain,Low,1019,31,Delayed
+FL1792,Air India,Delhi,Bangalore,2025-02-24,23:30,23:45,Fog,Medium,1325,15,On Time
+FL1793,Akasa Air,Chennai,Jaipur,2025-02-06,02:00,02:21,Clear,High,1765,21,Delayed
+FL1794,IndiGo,Hyderabad,Bangalore,2025-02-27,17:00,17:00,Clear,Low,1332,0,On Time
+FL1795,Vistara,Pune,Bangalore,2025-01-29,21:00,21:22,Rain,Medium,1168,22,Delayed
+FL1796,IndiGo,Jaipur,Chennai,2025-01-27,03:30,03:30,Clear,Medium,525,0,On Time
+FL1797,Akasa Air,Bangalore,Ahmedabad,2025-02-18,11:30,11:30,Clear,Low,971,0,On Time
+FL1798,Vistara,Delhi,Kolkata,2025-01-19,14:30,14:57,Thunderstorm,Low,1134,27,Delayed
+FL1799,SpiceJet,Kolkata,Chennai,2025-02-24,02:45,02:55,Fog,Low,1680,10,On Time
+FL1800,Vistara,Delhi,Kolkata,2025-01-29,16:00,16:00,Clear,Low,1108,0,On Time
+FL1801,Vistara,Kochi,Delhi,2025-02-17,05:00,05:20,Fog,Low,710,20,Delayed
+FL1802,Akasa Air,Kolkata,Delhi,2025-01-15,13:45,14:42,Fog,High,1848,57,Delayed
+FL1803,Vistara,Pune,Ahmedabad,2025-02-12,19:45,20:22,Thunderstorm,High,1872,37,Delayed
+FL1804,Vistara,Delhi,Kochi,2025-01-17,15:45,16:44,Rain,High,360,59,Delayed
+FL1805,Air India,Mumbai,Delhi,2025-02-01,21:00,21:29,Rain,Medium,1691,29,Delayed
+FL1806,SpiceJet,Bangalore,Hyderabad,2025-02-09,19:00,19:30,Clear,High,1923,30,Delayed
+FL1807,Vistara,Chennai,Hyderabad,2025-02-12,15:45,16:20,Fog,High,1864,35,Delayed
+FL1808,Air India,Kolkata,Delhi,2025-01-25,14:30,14:54,Thunderstorm,Medium,373,24,Delayed
+FL1809,Air India,Bangalore,Jaipur,2025-02-12,09:15,09:29,Thunderstorm,Medium,939,14,On Time
+FL1810,Vistara,Ahmedabad,Delhi,2025-02-06,21:45,22:12,Thunderstorm,Medium,620,27,Delayed
+FL1811,Akasa Air,Mumbai,Kolkata,2025-01-17,15:45,16:05,Fog,Medium,425,20,Delayed
+FL1812,Air India,Kochi,Mumbai,2025-01-09,11:30,11:55,Clear,High,1079,25,Delayed
+FL1813,Air India,Kolkata,Pune,2025-01-23,13:30,13:52,Clear,High,807,22,Delayed
+FL1814,IndiGo,Hyderabad,Delhi,2025-02-28,22:00,22:20,Fog,Low,647,20,Delayed
+FL1815,Air India,Jaipur,Pune,2025-01-03,14:45,14:55,Thunderstorm,Medium,1725,10,On Time
+FL1816,Vistara,Kochi,Mumbai,2025-01-21,12:45,13:28,Fog,High,504,43,Delayed
+FL1817,IndiGo,Pune,Ahmedabad,2025-02-02,21:30,22:15,Rain,High,1192,45,Delayed
+FL1818,IndiGo,Ahmedabad,Delhi,2025-02-23,17:15,17:26,Fog,Medium,908,11,On Time
+FL1819,Akasa Air,Kolkata,Chennai,2025-02-09,23:00,23:25,Clear,High,859,25,Delayed
+FL1820,Air India,Kochi,Jaipur,2025-01-31,13:15,13:45,Fog,Low,1987,30,Delayed
+FL1821,SpiceJet,Jaipur,Hyderabad,2025-01-28,21:30,21:52,Rain,Medium,814,22,Delayed
+FL1822,Akasa Air,Jaipur,Ahmedabad,2025-02-12,17:15,17:35,Clear,High,1481,20,Delayed
+FL1823,Vistara,Chennai,Ahmedabad,2025-01-18,20:45,21:06,Clear,High,1046,21,Delayed
+FL1824,Vistara,Bangalore,Chennai,2025-01-10,23:30,23:50,Thunderstorm,Medium,2000,20,Delayed
+FL1825,Air India,Chennai,Kolkata,2025-01-18,09:15,10:06,Fog,High,1131,51,Delayed
+FL1826,IndiGo,Delhi,Bangalore,2025-01-13,00:15,00:40,Fog,Medium,1446,25,Delayed
+FL1827,Vistara,Kolkata,Mumbai,2025-01-13,05:30,05:48,Rain,Low,1917,18,Delayed
+FL1828,SpiceJet,Jaipur,Bangalore,2025-02-11,01:45,01:45,Clear,Low,471,0,On Time
+FL1829,SpiceJet,Kochi,Hyderabad,2025-02-25,02:45,03:33,Fog,High,1112,48,Delayed
+FL1830,IndiGo,Chennai,Delhi,2025-02-06,23:00,23:38,Fog,Medium,484,38,Delayed
+FL1831,IndiGo,Kochi,Delhi,2025-02-19,10:30,11:25,Thunderstorm,High,1166,55,Delayed
+FL1832,IndiGo,Bangalore,Delhi,2025-01-12,06:30,06:48,Thunderstorm,Medium,1507,18,Delayed
+FL1833,Air India,Ahmedabad,Jaipur,2025-01-24,22:00,22:53,Fog,High,1698,53,Delayed
+FL1834,IndiGo,Hyderabad,Bangalore,2025-01-24,15:30,16:00,Fog,Low,1540,30,Delayed
+FL1835,Air India,Mumbai,Chennai,2025-01-17,17:45,18:51,Fog,High,1963,66,Delayed
+FL1836,Air India,Jaipur,Chennai,2025-02-24,14:45,14:45,Clear,Medium,823,0,On Time
+FL1837,SpiceJet,Delhi,Chennai,2025-01-20,06:15,07:03,Thunderstorm,High,1916,48,Delayed
+FL1838,Air India,Hyderabad,Delhi,2025-02-22,15:45,16:17,Thunderstorm,Medium,1165,32,Delayed
+FL1839,Air India,Bangalore,Hyderabad,2025-02-02,02:30,03:28,Thunderstorm,High,1228,58,Delayed
+FL1840,Air India,Mumbai,Bangalore,2025-02-10,14:15,14:15,Clear,Medium,709,0,On Time
+FL1841,SpiceJet,Pune,Delhi,2025-01-08,05:15,06:14,Rain,High,1923,59,Delayed
+FL1842,SpiceJet,Ahmedabad,Kochi,2025-02-25,23:15,23:46,Fog,Low,1514,31,Delayed
+FL1843,SpiceJet,Hyderabad,Chennai,2025-01-06,13:30,14:08,Rain,Medium,1072,38,Delayed
+FL1844,Akasa Air,Chennai,Mumbai,2025-03-02,00:15,00:15,Clear,Medium,706,0,On Time
+FL1845,SpiceJet,Bangalore,Mumbai,2025-01-26,19:45,19:57,Fog,Low,1053,12,On Time
+FL1846,IndiGo,Kochi,Delhi,2025-01-01,22:45,23:28,Thunderstorm,High,759,43,Delayed
+FL1847,IndiGo,Chennai,Hyderabad,2025-01-19,23:45,00:08,Thunderstorm,Low,723,23,Delayed
+FL1848,Akasa Air,Chennai,Hyderabad,2025-02-16,21:15,21:38,Thunderstorm,Low,1922,23,Delayed
+FL1849,IndiGo,Mumbai,Hyderabad,2025-01-17,07:45,08:13,Rain,Medium,1701,28,Delayed
+FL1850,Vistara,Delhi,Mumbai,2025-01-31,04:30,05:13,Thunderstorm,High,1750,43,Delayed
+FL1851,Vistara,Kochi,Hyderabad,2025-01-05,03:00,03:00,Clear,Medium,780,0,On Time
+FL1852,Vistara,Pune,Mumbai,2025-01-01,08:45,09:16,Fog,Medium,1059,31,Delayed
+FL1853,IndiGo,Jaipur,Mumbai,2025-02-07,05:30,06:20,Rain,High,1258,50,Delayed
+FL1854,IndiGo,Delhi,Pune,2025-02-15,16:45,16:58,Rain,Medium,941,13,On Time
+FL1855,Air India,Bangalore,Ahmedabad,2025-02-25,08:30,09:08,Thunderstorm,Medium,839,38,Delayed
+FL1856,Akasa Air,Hyderabad,Jaipur,2025-01-21,13:15,13:59,Fog,High,1438,44,Delayed
+FL1857,Vistara,Mumbai,Chennai,2025-01-10,01:15,01:40,Rain,Low,832,25,Delayed
+FL1858,IndiGo,Ahmedabad,Kolkata,2025-01-08,15:00,15:32,Thunderstorm,Medium,1448,32,Delayed
+FL1859,Vistara,Ahmedabad,Kochi,2025-01-08,23:15,23:15,Clear,Medium,491,0,On Time
+FL1860,IndiGo,Hyderabad,Bangalore,2025-02-23,05:30,06:00,Rain,High,1152,30,Delayed
+FL1861,Air India,Chennai,Ahmedabad,2025-02-13,03:30,03:30,Clear,Medium,1695,0,On Time
+FL1862,Air India,Kolkata,Pune,2025-02-07,03:30,03:42,Rain,Low,1242,12,On Time
+FL1863,Vistara,Ahmedabad,Hyderabad,2025-02-08,21:00,21:30,Fog,Low,1574,30,Delayed
+FL1864,Vistara,Pune,Bangalore,2025-01-14,01:30,02:03,Fog,Low,444,33,Delayed
+FL1865,Akasa Air,Kochi,Kolkata,2025-01-06,12:30,13:10,Rain,Low,1878,40,Delayed
+FL1866,Vistara,Delhi,Mumbai,2025-02-24,06:15,06:34,Thunderstorm,Medium,1625,19,Delayed
+FL1867,IndiGo,Delhi,Hyderabad,2025-02-01,13:30,14:01,Rain,Medium,496,31,Delayed
+FL1868,SpiceJet,Jaipur,Chennai,2025-02-01,14:45,15:13,Thunderstorm,Medium,1529,28,Delayed
+FL1869,Vistara,Delhi,Kolkata,2025-02-21,11:15,11:55,Thunderstorm,High,382,40,Delayed
+FL1870,Akasa Air,Pune,Ahmedabad,2025-02-13,07:15,08:02,Thunderstorm,High,895,47,Delayed
+FL1871,Vistara,Kolkata,Delhi,2025-02-28,15:30,16:01,Rain,Low,915,31,Delayed
+FL1872,IndiGo,Jaipur,Kolkata,2025-01-19,18:00,18:00,Clear,Low,1351,0,On Time
+FL1873,Air India,Jaipur,Kolkata,2025-01-27,03:45,04:03,Fog,Medium,1499,18,Delayed
+FL1874,Air India,Jaipur,Mumbai,2025-01-08,23:45,00:21,Rain,Low,1104,36,Delayed
+FL1875,Air India,Delhi,Kolkata,2025-02-26,22:30,23:32,Fog,High,1851,62,Delayed
+FL1876,Vistara,Kochi,Hyderabad,2025-01-22,05:15,05:48,Rain,Low,1537,33,Delayed
+FL1877,SpiceJet,Delhi,Kolkata,2025-02-04,00:00,00:10,Thunderstorm,Low,651,10,On Time
+FL1878,Vistara,Ahmedabad,Kolkata,2025-02-25,21:45,22:47,Fog,High,1714,62,Delayed
+FL1879,Vistara,Hyderabad,Delhi,2025-01-09,04:00,04:36,Rain,Low,332,36,Delayed
+FL1880,IndiGo,Mumbai,Chennai,2025-01-31,20:15,20:51,Rain,Medium,1582,36,Delayed
+FL1881,Akasa Air,Chennai,Delhi,2025-01-20,14:15,14:25,Thunderstorm,Medium,538,10,On Time
+FL1882,IndiGo,Bangalore,Ahmedabad,2025-02-01,15:00,15:38,Thunderstorm,High,903,38,Delayed
+FL1883,Akasa Air,Kolkata,Mumbai,2025-01-22,00:00,00:37,Thunderstorm,Medium,1315,37,Delayed
+FL1884,Akasa Air,Kochi,Jaipur,2025-01-19,01:45,02:11,Thunderstorm,Medium,1510,26,Delayed
+FL1885,Akasa Air,Ahmedabad,Chennai,2025-02-15,01:00,01:37,Thunderstorm,High,848,37,Delayed
+FL1886,Vistara,Ahmedabad,Delhi,2025-02-01,19:30,20:08,Thunderstorm,High,630,38,Delayed
+FL1887,SpiceJet,Chennai,Ahmedabad,2025-01-23,14:15,15:19,Rain,High,1533,64,Delayed
+FL1888,Vistara,Bangalore,Hyderabad,2025-02-16,22:45,23:41,Thunderstorm,High,1930,56,Delayed
+FL1889,Vistara,Bangalore,Chennai,2025-01-19,22:00,22:15,Thunderstorm,Low,708,15,On Time
+FL1890,IndiGo,Kochi,Ahmedabad,2025-01-07,13:45,14:01,Fog,Low,1440,16,Delayed
+FL1891,Air India,Mumbai,Pune,2025-02-26,08:30,09:06,Rain,Low,1331,36,Delayed
+FL1892,Air India,Delhi,Pune,2025-01-28,03:15,03:37,Clear,High,1296,22,Delayed
+FL1893,SpiceJet,Pune,Kochi,2025-02-19,01:30,02:25,Rain,High,1746,55,Delayed
+FL1894,Air India,Ahmedabad,Kochi,2025-02-23,03:00,03:16,Clear,High,1338,16,Delayed
+FL1895,Air India,Bangalore,Delhi,2025-02-25,06:30,07:18,Rain,High,1860,48,Delayed
+FL1896,Akasa Air,Ahmedabad,Delhi,2025-01-10,20:30,20:43,Fog,Low,713,13,On Time
+FL1897,Vistara,Kolkata,Mumbai,2025-01-16,15:30,16:02,Fog,High,844,32,Delayed
+FL1898,SpiceJet,Kolkata,Pune,2025-02-10,21:15,22:00,Rain,High,582,45,Delayed
+FL1899,Vistara,Kolkata,Kochi,2025-02-27,14:30,14:30,Clear,Medium,598,0,On Time
+FL1900,Air India,Jaipur,Delhi,2025-01-06,10:30,10:53,Thunderstorm,Low,425,23,Delayed
+FL1901,Vistara,Mumbai,Bangalore,2025-02-27,18:00,18:22,Fog,Medium,1694,22,Delayed
+FL1902,Akasa Air,Hyderabad,Pune,2025-02-28,11:00,11:48,Fog,High,1734,48,Delayed
+FL1903,Vistara,Ahmedabad,Chennai,2025-02-26,17:45,18:28,Fog,High,917,43,Delayed
+FL1904,Air India,Mumbai,Jaipur,2025-01-22,12:15,12:27,Fog,Low,1347,12,On Time
+FL1905,Akasa Air,Hyderabad,Jaipur,2025-01-22,20:15,20:15,Clear,Low,1931,0,On Time
+FL1906,Akasa Air,Kochi,Hyderabad,2025-01-16,09:45,10:01,Clear,High,1063,16,Delayed
+FL1907,SpiceJet,Jaipur,Pune,2025-01-08,01:00,01:28,Thunderstorm,Medium,1809,28,Delayed
+FL1908,Air India,Ahmedabad,Pune,2025-01-16,23:15,23:34,Fog,Medium,1665,19,Delayed
+FL1909,Akasa Air,Bangalore,Kolkata,2025-02-03,23:15,23:15,Clear,Medium,1357,0,On Time
+FL1910,Akasa Air,Chennai,Pune,2025-01-30,03:15,03:27,Thunderstorm,Medium,488,12,On Time
+FL1911,Air India,Kolkata,Bangalore,2025-01-31,06:45,06:45,Clear,Medium,1686,0,On Time
+FL1912,Akasa Air,Kolkata,Jaipur,2025-02-03,12:30,13:22,Thunderstorm,High,1711,52,Delayed
+FL1913,Vistara,Kolkata,Bangalore,2025-01-10,16:15,16:58,Thunderstorm,High,1742,43,Delayed
+FL1914,Akasa Air,Jaipur,Delhi,2025-02-14,06:45,07:18,Thunderstorm,Low,621,33,Delayed
+FL1915,Akasa Air,Pune,Delhi,2025-02-08,13:00,13:00,Clear,Medium,1470,0,On Time
+FL1916,SpiceJet,Mumbai,Jaipur,2025-01-10,03:30,03:49,Fog,Medium,902,19,Delayed
+FL1917,Vistara,Mumbai,Bangalore,2025-01-10,18:45,18:45,Clear,Medium,880,0,On Time
+FL1918,IndiGo,Bangalore,Ahmedabad,2025-01-01,03:30,03:30,Clear,Low,1155,0,On Time
+FL1919,Vistara,Kochi,Hyderabad,2025-02-06,14:30,15:06,Thunderstorm,Medium,1774,36,Delayed
+FL1920,Akasa Air,Bangalore,Kochi,2025-02-02,20:45,21:28,Thunderstorm,High,1790,43,Delayed
+FL1921,SpiceJet,Delhi,Kolkata,2025-01-25,07:45,08:25,Fog,High,1807,40,Delayed
+FL1922,SpiceJet,Delhi,Bangalore,2025-02-15,00:30,00:47,Clear,High,694,17,Delayed
+FL1923,Akasa Air,Jaipur,Mumbai,2025-02-06,16:15,17:08,Thunderstorm,High,546,53,Delayed
+FL1924,Akasa Air,Bangalore,Mumbai,2025-01-18,06:15,06:50,Thunderstorm,Low,1392,35,Delayed
+FL1925,Akasa Air,Pune,Kolkata,2025-02-07,01:45,01:45,Clear,Medium,1195,0,On Time
+FL1926,IndiGo,Kolkata,Mumbai,2025-02-25,16:30,16:42,Thunderstorm,Medium,534,12,On Time
+FL1927,Air India,Jaipur,Bangalore,2025-01-19,04:15,04:29,Fog,Low,928,14,On Time
+FL1928,Vistara,Bangalore,Mumbai,2025-02-09,10:15,10:31,Clear,High,910,16,Delayed
+FL1929,Vistara,Delhi,Pune,2025-01-10,13:30,14:10,Fog,Medium,1995,40,Delayed
+FL1930,Air India,Mumbai,Chennai,2025-01-16,19:15,20:16,Thunderstorm,High,535,61,Delayed
+FL1931,SpiceJet,Mumbai,Pune,2025-01-30,17:45,17:45,Clear,Medium,359,0,On Time
+FL1932,Vistara,Chennai,Mumbai,2025-01-18,17:00,17:49,Rain,High,923,49,Delayed
+FL1933,Akasa Air,Kolkata,Ahmedabad,2025-01-06,20:15,20:42,Rain,Medium,644,27,Delayed
+FL1934,IndiGo,Jaipur,Kolkata,2025-02-28,17:45,17:45,Clear,Low,1964,0,On Time
+FL1935,Vistara,Kochi,Hyderabad,2025-02-11,05:00,05:00,Clear,Medium,859,0,On Time
+FL1936,Akasa Air,Hyderabad,Kolkata,2025-01-23,20:15,20:30,Fog,Low,1813,15,On Time
+FL1937,Akasa Air,Kochi,Delhi,2025-01-20,02:45,02:45,Clear,Low,1784,0,On Time
+FL1938,Akasa Air,Hyderabad,Kolkata,2025-01-14,19:30,20:17,Fog,High,859,47,Delayed
+FL1939,IndiGo,Pune,Kochi,2025-01-14,14:30,14:49,Clear,High,1623,19,Delayed
+FL1940,Air India,Kochi,Ahmedabad,2025-01-01,00:15,01:23,Thunderstorm,High,1861,68,Delayed
+FL1941,Vistara,Jaipur,Delhi,2025-02-20,20:00,20:29,Clear,High,1676,29,Delayed
+FL1942,Air India,Pune,Kolkata,2025-02-22,19:30,20:06,Thunderstorm,Low,1872,36,Delayed
+FL1943,Air India,Delhi,Ahmedabad,2025-01-24,06:45,06:45,Clear,Low,1821,0,On Time
+FL1944,Air India,Hyderabad,Pune,2025-01-13,02:30,02:55,Rain,Low,1043,25,Delayed
+FL1945,Air India,Hyderabad,Ahmedabad,2025-02-27,22:15,22:15,Clear,Low,1981,0,On Time
+FL1946,Vistara,Delhi,Hyderabad,2025-02-06,16:45,17:21,Rain,High,433,36,Delayed
+FL1947,Akasa Air,Bangalore,Delhi,2025-01-09,08:15,08:52,Fog,Low,1688,37,Delayed
+FL1948,Air India,Jaipur,Hyderabad,2025-02-13,17:45,17:45,Clear,Medium,1612,0,On Time
+FL1949,Air India,Pune,Kolkata,2025-02-24,13:30,13:59,Clear,High,1314,29,Delayed
+FL1950,SpiceJet,Jaipur,Mumbai,2025-02-26,23:15,23:15,Clear,Medium,1160,0,On Time
+FL1951,Akasa Air,Ahmedabad,Pune,2025-01-01,12:15,12:53,Fog,Low,1471,38,Delayed
+FL1952,Air India,Chennai,Kolkata,2025-01-05,07:15,07:34,Rain,Medium,428,19,Delayed
+FL1953,Air India,Mumbai,Ahmedabad,2025-01-28,00:30,00:43,Fog,Low,1269,13,On Time
+FL1954,IndiGo,Pune,Mumbai,2025-02-22,10:15,10:44,Clear,High,1864,29,Delayed
+FL1955,Air India,Ahmedabad,Delhi,2025-01-06,01:00,01:38,Thunderstorm,Medium,1720,38,Delayed
+FL1956,Air India,Bangalore,Mumbai,2025-02-28,14:00,14:58,Fog,High,434,58,Delayed
+FL1957,Air India,Mumbai,Jaipur,2025-01-04,09:45,10:14,Thunderstorm,Low,1840,29,Delayed
+FL1958,Vistara,Chennai,Mumbai,2025-01-30,12:45,13:32,Thunderstorm,High,995,47,Delayed
+FL1959,Air India,Ahmedabad,Jaipur,2025-01-22,18:15,18:15,Clear,Low,325,0,On Time
+FL1960,Akasa Air,Delhi,Chennai,2025-02-27,18:15,18:38,Fog,Medium,1285,23,Delayed
+FL1961,Akasa Air,Ahmedabad,Bangalore,2025-01-16,04:00,04:00,Clear,Low,938,0,On Time
+FL1962,Akasa Air,Kolkata,Jaipur,2025-02-11,11:30,11:55,Rain,Low,932,25,Delayed
+FL1963,Akasa Air,Pune,Hyderabad,2025-01-24,00:15,00:15,Clear,Low,1338,0,On Time
+FL1964,Akasa Air,Mumbai,Kolkata,2025-01-23,06:15,06:35,Rain,Low,687,20,Delayed
+FL1965,Vistara,Ahmedabad,Pune,2025-02-24,18:30,18:50,Fog,Medium,632,20,Delayed
+FL1966,Air India,Ahmedabad,Mumbai,2025-02-01,07:00,07:46,Rain,High,1577,46,Delayed
+FL1967,IndiGo,Chennai,Ahmedabad,2025-02-17,10:45,11:00,Rain,Medium,1991,15,On Time
+FL1968,Air India,Pune,Mumbai,2025-01-05,11:00,11:00,Clear,Low,895,0,On Time
+FL1969,Vistara,Chennai,Pune,2025-01-03,00:15,00:30,Rain,Medium,748,15,On Time
+FL1970,SpiceJet,Bangalore,Pune,2025-02-24,17:15,17:25,Rain,Low,660,10,On Time
+FL1971,SpiceJet,Delhi,Mumbai,2025-02-23,21:15,22:08,Thunderstorm,High,993,53,Delayed
+FL1972,IndiGo,Hyderabad,Ahmedabad,2025-01-16,11:30,12:33,Rain,High,1756,63,Delayed
+FL1973,Air India,Delhi,Bangalore,2025-02-26,04:15,05:03,Rain,High,951,48,Delayed
+FL1974,Akasa Air,Kolkata,Chennai,2025-02-28,01:15,01:35,Fog,Low,806,20,Delayed
+FL1975,Air India,Hyderabad,Bangalore,2025-02-24,16:45,17:27,Rain,High,1919,42,Delayed
+FL1976,Akasa Air,Delhi,Bangalore,2025-02-02,12:30,13:14,Thunderstorm,High,959,44,Delayed
+FL1977,SpiceJet,Jaipur,Ahmedabad,2025-02-15,15:45,16:23,Fog,High,724,38,Delayed
+FL1978,IndiGo,Chennai,Ahmedabad,2025-02-25,07:45,08:08,Rain,Medium,1072,23,Delayed
+FL1979,Akasa Air,Bangalore,Pune,2025-01-17,17:00,17:19,Rain,Low,1210,19,Delayed
+FL1980,Akasa Air,Pune,Chennai,2025-02-07,01:45,02:09,Fog,Medium,1257,24,Delayed
+FL1981,Vistara,Kolkata,Pune,2025-02-21,15:30,15:40,Fog,Medium,667,10,On Time
+FL1982,Vistara,Chennai,Hyderabad,2025-02-11,02:30,02:30,Clear,Medium,1327,0,On Time
+FL1983,Akasa Air,Jaipur,Delhi,2025-02-20,08:15,08:15,Clear,Low,446,0,On Time
+FL1984,SpiceJet,Mumbai,Jaipur,2025-01-13,10:15,10:34,Fog,Medium,1826,19,Delayed
+FL1985,SpiceJet,Chennai,Bangalore,2025-02-24,22:30,22:30,Clear,Medium,877,0,On Time
+FL1986,SpiceJet,Kolkata,Kochi,2025-02-22,18:00,18:45,Thunderstorm,High,1114,45,Delayed
+FL1987,IndiGo,Chennai,Kochi,2025-01-31,07:45,08:20,Thunderstorm,Medium,475,35,Delayed
+FL1988,SpiceJet,Chennai,Kolkata,2025-02-19,22:45,23:09,Rain,Medium,1443,24,Delayed
+FL1989,Air India,Pune,Bangalore,2025-02-06,04:30,04:30,Clear,Medium,1959,0,On Time
+FL1990,SpiceJet,Pune,Chennai,2025-01-27,13:45,14:13,Fog,Medium,347,28,Delayed
+FL1991,Akasa Air,Mumbai,Bangalore,2025-01-10,10:45,11:25,Thunderstorm,Low,1100,40,Delayed
+FL1992,Air India,Jaipur,Kolkata,2025-01-13,15:00,16:09,Fog,High,1608,69,Delayed
+FL1993,SpiceJet,Delhi,Bangalore,2025-01-07,21:15,21:45,Clear,High,354,30,Delayed
+FL1994,IndiGo,Chennai,Delhi,2025-02-28,12:30,12:49,Rain,Low,1650,19,Delayed
+FL1995,Akasa Air,Delhi,Ahmedabad,2025-01-04,11:00,11:37,Rain,Medium,1141,37,Delayed
+FL1996,Vistara,Bangalore,Delhi,2025-01-09,17:45,18:24,Thunderstorm,High,722,39,Delayed
+FL1997,IndiGo,Chennai,Hyderabad,2025-01-28,22:45,23:37,Rain,High,1503,52,Delayed
+FL1998,IndiGo,Jaipur,Ahmedabad,2025-01-18,06:00,06:12,Rain,Medium,1988,12,On Time
+FL1999,Vistara,Kochi,Chennai,2025-02-03,10:45,11:13,Thunderstorm,Medium,380,28,Delayed
+FL2000,Air India,Hyderabad,Ahmedabad,2025-01-23,22:30,23:26,Thunderstorm,High,1150,56,Delayed
