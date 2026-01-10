@@ -1,22 +1,27 @@
 import streamlit as st
 import requests
 
-# ---------------------------------
-# Page config
-# ---------------------------------
+# ===============================
+# BACKEND CONFIG (IMPORTANT)
+# ===============================
+# Replace with your EC2 Public IP
+BACKEND_URL = "http://51.21.182.215:8000"
+
+# ===============================
+# PAGE CONFIG
+# ===============================
 st.set_page_config(
     page_title="Aviation Delay Predictor",
     layout="centered"
 )
 
 st.title("✈️ Aviation Flight Delay Predictor")
-st.caption("MCP-style: Prediction + Reasoning")
-
+st.caption("Flight delay prediction using ML + FastAPI")
 st.divider()
 
-# ---------------------------------
+# ===============================
 # INPUT SECTION
-# ---------------------------------
+# ===============================
 st.subheader("🧾 Flight Details")
 
 airline = st.selectbox(
@@ -44,62 +49,61 @@ traffic = st.selectbox(
     ["Low", "Medium"]
 )
 
-st.divider()
-
-# ---------------------------------
-# ONE-HOT ENCODING (MATCH MODEL)
-# ---------------------------------
+# ===============================
+# ONE-HOT ENCODE INPUT
+# ===============================
 input_data = {
     # Airline
-    "Airline_Indigo": 1 if airline == "Indigo" else 0,
-    "Airline_Vistara": 1 if airline == "Vistara" else 0,
-    "Airline_Air India": 1 if airline == "Air India" else 0,
-    "Airline_Akasa Air": 1 if airline == "Akasa Air" else 0,
-    "Airline_SpiceJet": 1 if airline == "SpiceJet" else 0,
+    "Airline_Indigo": airline == "Indigo",
+    "Airline_Vistara": airline == "Vistara",
+    "Airline_Air India": airline == "Air India",
+    "Airline_Akasa Air": airline == "Akasa Air",
+    "Airline_SpiceJet": airline == "SpiceJet",
 
     # Source
-    "Source_Mumbai": 1 if source == "Mumbai" else 0,
-    "Source_Delhi": 1 if source == "Delhi" else 0,
-    "Source_Pune": 1 if source == "Pune" else 0,
-    "Source_Kolkata": 1 if source == "Kolkata" else 0,
-    "Source_Chennai": 1 if source == "Chennai" else 0,
-    "Source_Hyderabad": 1 if source == "Hyderabad" else 0,
-    "Source_Kochi": 1 if source == "Kochi" else 0,
+    "Source_Mumbai": source == "Mumbai",
+    "Source_Delhi": source == "Delhi",
+    "Source_Pune": source == "Pune",
+    "Source_Kolkata": source == "Kolkata",
+    "Source_Chennai": source == "Chennai",
+    "Source_Hyderabad": source == "Hyderabad",
+    "Source_Kochi": source == "Kochi",
 
     # Destination
-    "Destination_Mumbai": 1 if destination == "Mumbai" else 0,
-    "Destination_Delhi": 1 if destination == "Delhi" else 0,
-    "Destination_Pune": 1 if destination == "Pune" else 0,
-    "Destination_Kolkata": 1 if destination == "Kolkata" else 0,
-    "Destination_Chennai": 1 if destination == "Chennai" else 0,
-    "Destination_Hyderabad": 1 if destination == "Hyderabad" else 0,
-    "Destination_Kochi": 1 if destination == "Kochi" else 0,
+    "Destination_Mumbai": destination == "Mumbai",
+    "Destination_Delhi": destination == "Delhi",
+    "Destination_Pune": destination == "Pune",
+    "Destination_Kolkata": destination == "Kolkata",
+    "Destination_Chennai": destination == "Chennai",
+    "Destination_Hyderabad": destination == "Hyderabad",
+    "Destination_Kochi": destination == "Kochi",
 
     # Weather
-    "Weather_Rain": 1 if weather == "Rain" else 0,
-    "Weather_Fog": 1 if weather == "Fog" else 0,
-    "Weather_Thunderstorm": 1 if weather == "Thunderstorm" else 0,
+    "Weather_Rain": weather == "Rain",
+    "Weather_Fog": weather == "Fog",
+    "Weather_Thunderstorm": weather == "Thunderstorm",
 
-    # Airport Traffic
-    "Airport Traffic_Low": 1 if traffic == "Low" else 0,
-    "Airport Traffic_Medium": 1 if traffic == "Medium" else 0,
+    # Traffic
+    "Airport Traffic_Low": traffic == "Low",
+    "Airport Traffic_Medium": traffic == "Medium",
 }
 
-# ---------------------------------
-# PREDICT BUTTON
-# ---------------------------------
+# ===============================
+# PREDICTION BUTTON
+# ===============================
 if st.button("🚀 Predict Delay"):
     try:
-        # ---- Prediction Tool ----
-        pred_res = requests.post(
-            "http://127.0.0.1:8000/tool/predict-flight-delay",
-            json=input_data
+        # ---- Prediction API ----
+        pred_response = requests.post(
+            f"{BACKEND_URL}/tool/predict-flight-delay",
+            json=input_data,
+            timeout=5
         )
-        prediction = pred_res.json()["prediction"]
+        prediction = pred_response.json()["prediction"]
 
         st.success(f"⏱️ Predicted Delay: {prediction} minutes")
 
-        # ---- Risk Classification ----
+        # ---- Risk Level ----
         if prediction >= 10:
             st.error("🔴 High Delay Risk")
         elif prediction >= 5:
@@ -107,13 +111,13 @@ if st.button("🚀 Predict Delay"):
         else:
             st.success("🟢 Low Delay Risk")
 
-        # ---- Reasoning Tool ----
-        reason_res = requests.post(
-            "http://127.0.0.1:8000/tool/delay-reason",
-            json=input_data
+        # ---- Reasoning API ----
+        reason_response = requests.post(
+            f"{BACKEND_URL}/tool/delay-reason",
+            json=input_data,
+            timeout=5
         )
-
-        reasons = reason_res.json()["reasons"]
+        reasons = reason_response.json()["reasons"]
 
         st.divider()
         st.subheader("🧠 Why this delay?")
@@ -121,4 +125,4 @@ if st.button("🚀 Predict Delay"):
             st.write("•", r)
 
     except Exception as e:
-        st.error("Backend server not running. Start FastAPI first.")
+        st.error("❌ Backend not reachable. Make sure FastAPI is running on port 8000.")
