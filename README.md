@@ -220,25 +220,18 @@ nohup streamlit run app.py \
 --server.port 8501 \
 --server.address 0.0.0.0 &
 
-🌐 Live Application (Replace with your IP)
+🌐 Live Application (Deployed on AWS EC2)
 
-Streamlit UI
-👉 http://<Elastic-IP>:8501
+Streamlit UI (Live & Public):
+👉 http://13.62.216.124:8501/
 
-Backend API Docs
-👉 http://<Elastic-IP>:8000/docs
+Backend API Documentation (FastAPI – MCP Server):
+👉 http://13.62.216.124:8000/docs
 
-🏆 Why MCP-Style Architecture?
-
-Modular tools instead of monolithic API
-
-Explainable AI
-
-Scalable & maintainable
-
-Matches modern agent-based AI systems
+The application is deployed on an AWS EC2 instance with an attached Elastic IP to ensure a stable and permanent endpoint.
 
 👤 Author
 
 Priyanshu Kannaujiya
+
 
