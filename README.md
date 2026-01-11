@@ -1,125 +1,244 @@
-﻿# Aviation MCP Server
-# ✈️ Aviation MCP Server – Flight Delay Prediction System
+✈️ Aviation MCP Server – End-to-End Flight Delay Prediction & Explanation System
 
-An **MCP-style AI system** that predicts flight delays and explains the reasons behind them using a combination of **Machine Learning + Business Rules + Reasoning Tools**.
+An end-to-end, production-style Data Engineering & ML system that predicts flight delays and explains WHY they occur, using MCP-style tool orchestration, a FastAPI backend service, and AWS EC2 cloud deployment.
 
-This project demonstrates how to build an **intelligent backend** where prediction and reasoning are separated into modular tools and orchestrated via a Streamlit UI.
+This project demonstrates how to convert a notebook-level ML model into a real-world, always-on, explainable AI system.
 
----
+🎯 Problem Statement
 
-## 🚀 Features
+Traditional ML systems only answer:
 
-- 🔮 **Flight Delay Prediction** using a trained ML model  
-- 🧠 **Reasoning Engine** explaining *why* a delay may occur  
-- 🧩 **MCP-style Tool Architecture** (Prediction & Reasoning tools)  
-- 🎨 **Interactive Streamlit UI**  
-- ☁️ **Deployable on AWS EC2**
+“Will the flight be delayed?”
 
----
+But real aviation systems require:
 
-## 🧠 System Architecture
+“WHY is the flight delayed?”
 
-Streamlit UI
-↓
-FastAPI MCP Server
-├── Prediction Tool (ML + business rules)
-└── Reasoning Tool (Explainability)
+This project solves:
 
+Prediction (ML)
 
+Explanation (MCP tools)
 
----
+Reliability (Backend service)
 
-## 🛠️ Tech Stack
+Availability (AWS EC2)
 
-- **Python**
-- **FastAPI** – MCP-style backend
-- **Streamlit** – Frontend UI
-- **Scikit-learn** – ML model
-- **Pandas / NumPy**
-- **AWS EC2** (for deployment)
+🚀 What I Built (A to Z)
+✅ Data Engineering & ETL
 
----
+Collected raw historical flight data
 
-## 📂 Project Structure
+Cleaned missing values & duplicates
 
+Feature engineering (time, weather, congestion)
+
+Prepared ML-ready dataset
+
+✅ Machine Learning
+
+Trained delay prediction model
+
+Evaluated performance
+
+Saved trained model (model.pkl)
+
+✅ MCP (Core Differentiator 🔥)
+
+Used MCP as an intelligent tool orchestration layer, not just monitoring.
+
+MCP Tools Created:
+
+Prediction Tool (ML + business rules)
+
+Weather Analysis Tool
+
+Airport Congestion Tool
+
+Historical Delay Pattern Tool
+
+Flow:
+
+ML predicts delay
+
+MCP selects relevant tools
+
+Tools analyze reasons
+
+MCP generates human-readable explanation
+
+⚙️ Backend Service (FastAPI)
+Why Backend Service?
+
+UI should not directly talk to ML logic
+
+MCP tools need orchestration
+
+Production systems need separation of concerns
+
+What Backend Does
+
+Loads ML model
+
+Triggers MCP tools
+
+Returns prediction + explanation
+
+Acts as bridge: UI ↔ ML ↔ MCP
+
+☁️ Why AWS EC2
+
+Local laptop = unreliable
+
+EC2 = 24/7 always-on server
+
+Production-like cloud environment
+
+Public access for real users
+
+🌐 Why Elastic IP
+
+EC2 public IP changes on restart
+
+Elastic IP provides:
+
+Fixed URL
+
+Stable frontend-backend communication
+
+Professional deployment
+
+🧠 System Architecture
+End User (Browser)
+        ↓
+Streamlit UI (Port 8501)
+        ↓
+FastAPI Backend Service (Port 8000)
+        ↓
+MCP Tool Orchestration
+        ├── ML Prediction Tool
+        ├── Weather Reasoning Tool
+        ├── Congestion Reasoning Tool
+        └── Historical Pattern Tool
+        ↓
+AWS EC2 (Elastic IP attached)
+
+🛠️ Tech Stack
+
+Python
+
+Pandas / NumPy (ETL)
+
+Scikit-learn\db (ML)
+
+FastAPI (Backend MCP server)
+
+Streamlit (Frontend UI)
+
+AWS EC2 (Ubuntu)
+
+Elastic IP
+
+📂 Project Structure
 aviation-mcp-server/
 │
-├── app.py # Streamlit UI
-├── mcp_server.py # FastAPI MCP server
-├── model.pkl # Trained ML model
-├── requirements.txt # Dependencies
+├── app.py                     # Streamlit UI
+├── mcp_server.py              # FastAPI MCP backend
+├── model.pkl                  # Trained ML model
+├── requirements.txt
 ├── cleaned_flight_data.csv
+│
 ├── notebooks/
-│ └── 01_data_cleaning.ipynb
+│   └── 01_data_cleaning.ipynb
+│
 ├── training/
-│ └── model.py
+│   └── model.py
+│
 └── README.md
 
-
-
----
-
-## ▶️ How to Run Locally
-
-### 1️⃣ Clone the repository
-```bash
+▶️ Run Locally
 git clone https://github.com/<your-username>/aviation-mcp-server.git
 cd aviation-mcp-server
-2️⃣ Create virtual environment & install dependencies
-bash
-Copy code
+
 python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
+source venv/bin/activate
 pip install -r requirements.txt
-3️⃣ Start the MCP backend (FastAPI)
-bash
-Copy code
+
 uvicorn mcp_server:app --reload
-Backend available at:
 
-arduino
-Copy code
-http://127.0.0.1:8000/docs
-4️⃣ Start the Streamlit UI
-bash
-Copy code
 streamlit run app.py
-UI available at:
 
-arduino
-Copy code
-http://localhost:8501
-🧪 Example Inputs
-Airline: Indigo / Vistara / Air India
+☁️ AWS EC2 DEPLOYMENT (INTERVIEW GOLD 🥇)
+🔹 EC2 Setup
 
-Weather: Clear / Rain / Fog / Thunderstorm
+Ubuntu EC2 instance
 
-Airport Traffic: Low / Medium
+Security Group ports:
 
-📊 Output
-⏱️ Predicted Delay (in minutes)
+22 → SSH
 
-🚦 Delay Risk Level (Low / Medium / High)
+8000 → Backend
 
-🧠 Reasons explaining the delay
+8501 → Streamlit
 
-☁️ Deployment
-The project can be deployed on AWS EC2 with:
+🔹 EC2 Commands Used
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3-pip python3-venv -y
 
-FastAPI running on port 8000
+git clone https://github.com/<your-username>/aviation-mcp-server.git
+cd aviation-mcp-server
 
-Streamlit running on port 8501
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 
-🏆 Why MCP Style?
-Instead of a single API, the system exposes multiple intelligent tools:
+🔥 Backend as SYSTEMD Service (IMPORTANT)
+Create Service File
+sudo nano /etc/systemd/system/mcp_backend.service
 
-One tool predicts delay
+[Unit]
+Description=MCP FastAPI Backend Service
+After=network.target
 
-Another explains operational reasons
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/aviation-mcp-server
+ExecStart=/home/ubuntu/aviation-mcp-server/venv/bin/uvicorn mcp_server:app --host 0.0.0.0 --port 8000
+Restart=always
 
-This mirrors modern AI agent and tool-based architectures.
+[Install]
+WantedBy=multi-user.target
+
+Enable & Start
+sudo systemctl daemon-reload
+sudo systemctl enable mcp_backend
+sudo systemctl start mcp_backend
+sudo systemctl status mcp_backend
+
+🖥️ Run Streamlit in Background
+nohup streamlit run app.py \
+--server.port 8501 \
+--server.address 0.0.0.0 &
+
+🌐 Live Application (Replace with your IP)
+
+Streamlit UI
+👉 http://<Elastic-IP>:8501
+
+Backend API Docs
+👉 http://<Elastic-IP>:8000/docs
+
+🏆 Why MCP-Style Architecture?
+
+Modular tools instead of monolithic API
+
+Explainable AI
+
+Scalable & maintainable
+
+Matches modern agent-based AI systems
 
 👤 Author
+
 Priyanshu Kannaujiya
 
-AI / ML | Data Engineering | MCP Systems
